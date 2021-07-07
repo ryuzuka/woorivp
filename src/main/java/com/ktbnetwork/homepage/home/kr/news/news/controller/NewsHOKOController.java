@@ -91,6 +91,22 @@ public class NewsHOKOController {
                 return "home/ko/basic/news/news/1021";
             } else if (num.equals("22")) {
                 return "home/ko/basic/news/news/1022";
+            } else if (num.equals("23")) {
+                return "home/ko/basic/news/news/1023";
+            } else if (num.equals("24")) {
+                return "home/ko/basic/news/news/1024";
+            } else if (num.equals("25")) {
+                return "home/ko/basic/news/news/1025";
+            } else if (num.equals("26")) {
+                return "home/ko/basic/news/news/1026";
+            } else if (num.equals("27")) {
+                return "home/ko/basic/news/news/1027";
+            } else if (num.equals("28")) {
+                return "home/ko/basic/news/news/1028";
+            } else if (num.equals("29")) {
+                return "home/ko/basic/news/news/1029";
+            } else if (num.equals("30")) {
+                return "home/ko/basic/news/news/1030";
             }
 		}
 

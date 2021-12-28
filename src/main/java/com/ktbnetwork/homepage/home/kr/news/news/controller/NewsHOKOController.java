@@ -106,7 +106,47 @@ public class NewsHOKOController {
             } else if (num.equals("29")) {
                 return "home/ko/basic/news/news/1029";
             } else if (num.equals("30")) {
-                return "home/ko/basic/news/news/1030";
+				return "home/ko/basic/news/news/1030";
+            } else if (num.equals("31")) {
+				return "home/ko/basic/news/news/1031";
+            } else if (num.equals("32")) {
+				return "home/ko/basic/news/news/1032";
+            } else if (num.equals("33")) {
+				return "home/ko/basic/news/news/1033";
+            } else if (num.equals("34")) {
+				return "home/ko/basic/news/news/1034";
+            } else if (num.equals("35")) {
+				return "home/ko/basic/news/news/1035";
+            } else if (num.equals("36")) {
+				return "home/ko/basic/news/news/1036";
+            } else if (num.equals("37")) {
+				return "home/ko/basic/news/news/1037";
+            } else if (num.equals("38")) {
+				return "home/ko/basic/news/news/1038";
+            } else if (num.equals("39")) {
+				return "home/ko/basic/news/news/1039";
+            } else if (num.equals("40")) {
+				return "home/ko/basic/news/news/1040";
+            } else if (num.equals("41")) {
+				return "home/ko/basic/news/news/1041";
+            } else if (num.equals("42")) {
+				return "home/ko/basic/news/news/1042";
+            } else if (num.equals("43")) {
+				return "home/ko/basic/news/news/1043";
+            } else if (num.equals("44")) {
+				return "home/ko/basic/news/news/1044";
+            } else if (num.equals("45")) {
+				return "home/ko/basic/news/news/1045";
+            } else if (num.equals("46")) {
+				return "home/ko/basic/news/news/1046";
+            } else if (num.equals("47")) {
+				return "home/ko/basic/news/news/1047";
+            } else if (num.equals("48")) {
+				return "home/ko/basic/news/news/1048";
+            } else if (num.equals("49")) {
+				return "home/ko/basic/news/news/1049";
+            } else if (num.equals("50")) {
+                return "home/ko/basic/news/news/1050";
             }
 		}
 

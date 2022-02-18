@@ -12,7 +12,16 @@
 						<p class="pageTxt">KTB네트워크의 공지사항을 안내해드립니다.</p>
 					</div>
 				</div>
-				<div class="inner">					
+				<div class="tabArea">
+					<ul class="pageTab">
+						<li class="on"><a href="/home/info/news.do" aria-selected="true">News</a></li>
+						<li><a href="/home/info/notice.do">공지사항</a></li>
+						<li><a href="/home/info/business.do">경영공지</a></li>
+						<li><a href="/home/info/ir.do">IR</a></li>
+						<li><a href="/home/info/esg.do">ESG</a></li>
+					</ul>
+				</div>
+				<div class="inner">
 					<ul class="boardList noticeList">
 						<c:if test="${vo.page eq '1' }">
 							<li>
@@ -133,9 +142,9 @@
 								</a>
 							</li>
 						</c:if>
-						
-						
-						
+
+
+
 					</ul>
 					<div class="paginate">
 						<a href="/home/news/news/list.do?page=1" class="arrow first">처음페이지로 이동</a>
@@ -146,7 +155,7 @@
 						</span>
 						<a href="/home/news/news/list.do?page=2" class="arrow next">다음페이지로 이동</a>
 						<a href="/home/news/news/list.do?page=2" class="arrow end">마지막페이지로 이동</a>
-					</div>					
+					</div>
 				</div>
 			</div>
 		</section>

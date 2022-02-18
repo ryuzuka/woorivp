@@ -2,7 +2,7 @@
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 <script type="text/javascript">
 function fncPage(page) {
-	
+
 	if(page == '2') {
 		jQuery("li[data-page='2']").show();
 		jQuery("button.btnMore").hide();
@@ -20,7 +20,7 @@ jQuery(window).load(function() {
 			jQuery("a[href='#newsDetail_pop0<c:out value="${vo.num}"/>']").click();
 		</c:otherwise>
 	</c:choose>
-	
+
 });
 </c:if>
 </script>
@@ -30,6 +30,15 @@ jQuery(window).load(function() {
 			<div class="visualArea">
 				<h1 class="pageTit">News</h1>
 				<p role="text" class="pageTxt">KTB네트워크의 공지사항을 안내해드립니다.</p>
+			</div>
+			<div class="tabType1">
+				<ul>
+					<li class="on"><a href="/home/info/news.do" aria-selected="true">News</a></li>
+					<li><a href="/home/info/notice.do">공지사항</a></li>
+					<li><a href="/home/info/business.do">경영공지</a></li>
+					<li><a href="/home/info/ir.do">IR</a></li>
+					<li><a href="/home/info/esg.do">ESG</a></li>
+				</ul>
 			</div>
 			<div class="news">
 				<div class="boardArea">

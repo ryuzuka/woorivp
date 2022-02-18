@@ -15,7 +15,7 @@ import com.ktbnetwork.homepage.home.kr.news.vo.NewsVO;
 public class NewsHOKOController {
 
 
-	@RequestMapping("/home/news/news/list.do")
+	@RequestMapping("/home/info/news/list.do")
 	public String list(HttpServletRequest request, HttpServletResponse response,
 			@ModelAttribute("vo") NewsVO vo, Model model) {
 
@@ -36,7 +36,7 @@ public class NewsHOKOController {
 
 	}
 
-	@RequestMapping("/home/news/news/view.do")
+	@RequestMapping("/home/info/news/view.do")
 	public String view(@ModelAttribute("vo") NewsVO vo, Model model) {
 
 		if(DeviceUtil.isMobile()){

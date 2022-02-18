@@ -1,20 +1,22 @@
-package com.ktbnetwork.homepage.home.kr.watwedo.esg.controller;
+package com.ktbnetwork.homepage.home.kr.news.esg;
 
 import com.ktbnetwork.common.util.DeviceUtil;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-
 @Controller
 public class EsgHOKOController {
-	@RequestMapping("/home/watwedo/esg.do")
+	@RequestMapping("/home/info/esg.do")
 	public String main(Model model) {
+
 		if(DeviceUtil.isMobile()){
-			return "mobile/ko/basic/watwedo/esg/esg";
+
+			return "mobile/ko/basic/news/esg/esg";
 
 		}else{
-			return "home/ko/basic/watwedo/esg/esg";
+
+			return "home/ko/basic/news/esg/esg";
 
 		}
 	}

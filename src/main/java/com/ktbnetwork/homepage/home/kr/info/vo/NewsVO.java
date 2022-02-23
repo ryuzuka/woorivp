@@ -1,11 +1,11 @@
-package com.ktbnetwork.homepage.home.kr.news.vo;
+package com.ktbnetwork.homepage.home.kr.info.vo;
 
 public class NewsVO {
-	
+
 	private String num;
 
 	private String page;
-	
+
 	public String getNum() {
 		return num;
 	}

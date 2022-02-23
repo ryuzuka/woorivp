@@ -14,9 +14,9 @@
 				</div>
 				<div class="tabArea">
 					<ul class="pageTab">
-						<li class="on"><a href="/home/info/news.do" aria-selected="true">News</a></li>
-						<li><a href="/home/info/notice.do">공지사항</a></li>
-						<li><a href="/home/info/business.do">경영공지</a></li>
+						<li class="on"><a href="/home/info/news/list.do" aria-selected="true">News</a></li>
+						<li><a href="/home/info/notice/list.do">공지사항</a></li>
+						<li><a href="/home/info/announcement/list.do">경영공지</a></li>
 						<li><a href="/home/info/ir.do">IR</a></li>
 						<li><a href="/home/info/esg.do">ESG</a></li>
 					</ul>

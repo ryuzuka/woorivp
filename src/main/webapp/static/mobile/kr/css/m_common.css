@@ -2,7 +2,7 @@
 
 html,body{height:100%;word-wrap:break-word;word-break:keep-all}
 body,div,p,section,nav,footer,article,figure,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dt,dd,table,th,td,form,fieldset,input,textarea,button,select,span,strong,b,em,a,label{margin:0;padding:0;-webkit-text-size-adjust:none;text-size-adjust:100%;box-sizing:border-box;-webkit-overflow-scrolling:touch}
-body,input,textarea,select,button{color:#555;font-family:Roboto, notokr;font-weight:400;font-size:15px;line-height:1.4}
+body,input,textarea,select,button{color:#555;font-family:Wooridaum, Roboto, notokr;font-weight:400;font-size:15px;line-height:1.4}
 textarea{-webkit-border-radius:0;-webkit-appearance:none;resize:none}
 h1,h2,h3,h4,h5,h6{font-weight:500}
 table{width:100%;table-layout:fixed;border-collapse:separate;border-spacing:0}
@@ -57,7 +57,7 @@ textarea:placeholder{color:#737373;font-weight:400}
 .icoLabel.salesOff{color:#fff;border-color:#999;background:#999}
 
 /* layout */
-header{position:absolute;top:0;left:0;right:0;height:60px;line-height:60px;color:#fff;text-align:center;background:#2c2c92;transition:background .3s;z-index:10}
+header{position:absolute;top:0;left:0;right:0;height:60px;line-height:60px;color:#fff;text-align:center;background:#0067AC;transition:background .3s;z-index:10}
 header button{position:absolute;width:40px;height:40px;top:10px;overflow:hidden;text-indent:-9999px;z-index:11;background-image:url(../images/common/spr_layout.png);background-size:160px 160px}
 header .prev{left:20px;background-position:0 -65px}
 header .menu{right:20px;background-position:-40px -65px}
@@ -69,19 +69,19 @@ header.headFixed .menu{background-position:-40px 0}
 .container{position:relative;background:#f2f2f2;overflow:hidden}
 .contents{position:relative;padding:60px 30px 35px;background:#fff}
 
-footer{padding:0 30px 25px;background:#303135;text-align:center}
+footer{padding:0 30px 25px;background:#636466;text-align:center}
 footer .fLink{display:table;width:100%;table-layout:fixed;padding-top:20px}
 footer .fLink li{display:table-cell}
 footer .fLink li a{display:block;font-size:13px;font-weight:500;color:#fff;text-align:center;padding:2px 0}
-footer .copyright{font-size:12px;color:#999;line-height:1.5;margin-top:20px}
+footer .copyright{font-size:12px;color:#fff;line-height:1.5;margin-top:20px}
 footer .familySite{position:relative;padding-right:70px}
 footer .familySite:after{content:'';display:block;clear:both}
 footer .frmSelect{position:relative;display:inline-block;width:100%;margin-top:15px;padding:0;vertical-align:middle;text-align:left;background:none;border:none}
-footer .frmSelect .tit{overflow:hidden;position:relative;display:block;height:40px;padding:0 0 0 18px;color:#999;line-height:38px;border:1px solid #7e7f81;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis;word-wrap:normal;background:#303135 url(../images/common/ico_select_arrow.png) no-repeat right 50%;background-size:22px 6px}
+footer .frmSelect .tit{overflow:hidden;position:relative;display:block;height:40px;padding:0 0 0 18px;color:#fff;line-height:38px;border:1px solid #d4d4d4;white-space:nowrap;word-wrap:normal;text-overflow:ellipsis;word-wrap:normal;background:#636466 url(../images/common/ico_select_arrow.png) no-repeat right 50%;background-size:22px 6px}
 footer .frmSelect .tit:hover, .frmSelect .tit.on{border-color:#0b6fc6}
 footer .frmSelect .tit.disabled, 
 footer .frmSelect .tit.disabled:focus{border:1px solid #595a5d;background:#303135;cursor:text}
-footer .frmSelect .overcon{overflow:hidden;width:100%;border:1px solid #7e7f81;background:#303135;color:#999}
+footer .frmSelect .overcon{overflow:hidden;width:100%;border:1px solid #7e7f81;background:#636466;color:#fff}
 footer .frmSelect .overcon li a{overflow:hidden;display:block;height:40px;padding:0 13px;line-height:39px;white-space:nowrap;text-overflow:ellipsis;word-wrap:normal}
 footer .frmSelect select{display:none}
 footer .maskDiv_wddo{position:absolute;bottom:35px;left:0;right:0;padding:5px 0;border-top:none;box-sizing:content-box}
@@ -92,8 +92,8 @@ footer .jspTrack{position:relative}
 footer .jspDrag{position:relative;left:0px;cursor:pointer;border-radius:10px;background:#999}
 footer .jspCapTop{height:0}
 footer .jspCapBottom{height:0}
-footer .familySite .btnMove{display:block;position:absolute;right:0;top:15px;width:65px;height:40px;line-height:40px;text-align:center;border:1px solid #7e7f81;color:#999}
-footer .pageTop{margin:0 -30px;border-bottom:1px solid #45464a}
+footer .familySite .btnMove{display:block;position:absolute;right:0;top:15px;width:65px;height:40px;line-height:40px;text-align:center;border:1px solid #d4d4d4;color:#fff}
+footer .pageTop{margin:0 -30px;border-bottom:1px solid #dedede}
 footer .pageTop .btnTop{height:40px;padding-right:16px;color:#fff;font-size:13px;line-height:40px;background:url(../images/common/btn_top.png) 100% 50% no-repeat;background-size:10px auto}
 .selectBox{position:relative}
 .selectBox select{width:100%;height:40px;background:#303135 url(../images/common/ico_select_arrow.png) no-repeat right 50%;background-size:22px 6px;border:1px solid #7e7f81;color:#999;padding-left:18px;-webkit-appearance:none;-moz-appearance:none;appearance:none}
@@ -101,10 +101,10 @@ footer .pageTop .btnTop{height:40px;padding-right:16px;color:#fff;font-size:13px
 
 /* gnb */
 .gnb{display:none;position:fixed;top:0;right:-100%;width:100%;height:100%;background:#fff;z-index:19}
-.gnb .menuTop{position:absolute;left:0;top:0;z-index:10;background:#2c2c92;color:#fff;width:100%;height:115px;border-bottom:10px solid #eee}
-.gnb .menuTop .inner{padding:0 30px;height:60px;line-height:60px;border-bottom:1px solid #42429d}
+.gnb .menuTop{position:absolute;left:0;top:0;z-index:10;background:#0067AC;color:#fff;width:100%;height:115px;border-bottom:10px solid #eee}
+.gnb .menuTop .inner{padding:0 30px;height:60px;line-height:60px;border-bottom:1px solid #4282c1}
 .gnb .menuTop .goMain{position:absolute;right:64px;top:8px;width:42px;height:42px;overflow:hidden;text-indent:-9999px;z-index:11;background-image:url(../images/common/spr_btn.png);background-size:100px 100px;background-position:10px -29px}
-.gnb .menuTop .tit{display:block;position:absolute;left:0;top:0;text-indent:-9999px;width:150px;height:60px;background:url(../images/common/logo_w.png) no-repeat 30px 21px;background-size:90px 19px}/* lhk */
+.gnb .menuTop .tit{display:block;position:absolute;left:0;top:0;text-indent:-9999px;width:220px;height:60px;background:url(../images/common/logo_w.png) no-repeat 30px center;background-size:162px 22px}/* lhk */
 .gnb .menuTop .etc{display:table;width:100%;table-layout:fixed}
 .gnb .menuTop .etc > li{display:table-cell;position:relative;text-align:center}
 .gnb .menuTop .etc > li a{display:block;height:45px;line-height:45px;font-size:13px;font-weight:500}
@@ -184,7 +184,7 @@ textarea {width:100%;padding:20px 15px;border:1px solid #dadada;}
 
 /* popup */
 .fullLayer{display:none;position:fixed;left:0;top:0;width:100%;height:100%;min-height:100%;padding-top:60px;background:#fff;z-index:9997}
-.fullLayer .layerTit{position:absolute;top:0;left:0;width:100%;height:60px;line-height:60px;text-align:center;padding:0 55px;color:#fff;font-size:20px;font-weight:600;background:#848f99}
+.fullLayer .layerTit{position:absolute;top:0;left:0;width:100%;height:60px;line-height:60px;text-align:center;padding:0 55px;color:#fff;font-size:20px;font-weight:600;background:#0067AC}
 .fullLayer .layerCont{overflow-y:auto;height:100%;min-height:100%;padding:35px 30px}
 .fullLayer .layerCont.pd0 {padding-bottom:0}
 .fullLayer .layerCont>*:first-child{margin-top:0}
@@ -197,7 +197,7 @@ textarea {width:100%;padding:20px 15px;border:1px solid #dadada;}
 .layerPop .layerCont{position:relative;max-height:100%;overflow-y:auto;color:#555}
 .layerPop .layerCont>*:first-child{margin-top:0!important}
 .layerPop .layerCont .titDep3{font-weight:500}
-.layerPop:after{content:'';position:absolute;bottom:0;left:0;right:0;height:0;border-top:21px solid #fff;border-right:21px solid transparent;z-index:-1}
+.layerPop:after{height:21px;background:#fff;content:'';position:absolute;bottom:0;left:0;right:0;/*height:0;border-top:21px solid #fff;border-right:21px solid transparent;*/z-index:-1}
 .layerPop .layerClose{right:5px;top:5px;background-position:-120px 0}
 
 .layerPop .btnArea{display:table;position:relative;width:100%;table-layout:fixed;height:auto;min-height:inherit;margin:0;padding:20px 0 0 0;background:#fff}
@@ -209,6 +209,13 @@ textarea {width:100%;padding:20px 15px;border:1px solid #dadada;}
 .layerPop .btnArea>span+span a, .layerPop .btnArea>span:only-child a{background:#2c3785;color:#fff}
 
 .layerClose{position:absolute;width:40px;height:40px;right:10px;top:10px;overflow:hidden;text-indent:-9999px;z-index:40;background-image:url(../images/common/spr_layout.png);background-size:160px 160px;background-position:-80px 0}
+
+.layerPop.notice {left:22px;right:22px;word-break:keep-all;}
+.layerPop.notice:after {display:none;}
+.layerPop.notice .layerContainer {padding:0;}
+.layerPop.notice .layerContainer .layerTit {position:static;background:#0067AC;padding:23px 0 22px 20px;font-size:24px;font-weight:500;color:#fff;line-height:35px;}
+.layerPop.notice .layerContainer .layerCont {min-height:216px;padding:24px;background:#f2f2f2;font-size:14px;color:#000;text-align:left;}
+.layerPop.notice .layerClose {top:20px;right:20px;background:url('../images/common/btn_close02.png') no-repeat left top / 100%;}
 
 .tipLayer{position:relative;margin-top:30px}
 .tipLayer .btn{display:inline-block;position:relative;color:#2c3786;font-weight:500;padding-right:23px}
@@ -226,6 +233,7 @@ textarea {width:100%;padding:20px 15px;border:1px solid #dadada;}
 
 .txtInfo{margin-top:10px}
 .txtInfo:first-child{margin-top:0}
+.txtInfo + .txtInfo {margin-top:20px}
 
 .txtCopy{position:relative;display:block;margin:35px 0 20px;color:#111;font-size:25px;line-height:1.2;z-index:0}
 .txtCopy .point{display:inline-block;position:relative}

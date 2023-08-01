@@ -49,6 +49,13 @@
 							<li><a href="#OP11T89L"><img src="/static/home/kr/images/contents/img_partners_89_off.gif" alt="Kinova 로고"><span>Kinova</span></a></li>
 							<li><a href="#OP11T90L"><img src="/static/home/kr/images/contents/img_partners_90_off.gif" alt="Berkeleylights 로고"><span>Berkeleylights</span></a></li>
 							<li><a href="#OP11T92L"><img src="/static/home/kr/images/contents/img_partners_92_off.gif" alt="Neuroptika 로고"><span>Neuroptika</span></a></li>
+							
+							<!-- 0503 추가 -->
+							<li><a href="#OP11T100L"><img src="/static/home/kr/images/contents/img_partners_100_off.gif" alt="Grab 로고"><span>Grab</span></a></li>
+							<li><a href="#OP11T101L"><img src="/static/home/kr/images/contents/img_partners_101_off.gif" alt="Nobroker 로고"><span>Nobroker</span></a></li>
+							<li><a href="#OP11T102L"><img src="/static/home/kr/images/contents/img_partners_102_off.gif" alt="MissFresh 로고"><span>MissFresh</span></a></li>
+							<!-- //0503 추가 -->
+							
 						</ul>
 					</div>
 				</div>
@@ -398,4 +405,47 @@ CARsgen은 중국뿐만 아니라 Global에서 First in Class 고형암 치료�
 			<button type="button" class="layerClose">닫기</button>
 		</div>
 		<!-- Neuroptika//(L) -->
+		
+<!-- 0503 추가 -->
+		<!-- Grab(L) -->
+		<div class="layerPop layerS" id="OP11T100L">
+			<div class="layerContainer">
+				<h2 class="layerTit">Grab</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_100_on.gif" alt="Grab 로고"></div>
+					<p class="mtS">싱가포르에 본부를 둔 동남아시아 최대 차량공유 업체입니다. 그랩은 &apos;승차 공유&apos; 시장에만 머무르지 않고 음식 배달 서비스 &apos;그랩푸드&apos;, 물류 배달 서비스 &apos;그랩 익스프레스&apos;, 모바일 결제 시스템 &apos;그랩 페이&apos; 등 모든 일상생활을 지배하는 슈퍼 애플리케이션(앱)으로 진화하는 중입니다.</p>
+					<div class="link"><p class="site"><a href="https://www.grab.com/sg/" target="_blank" title="새창열기">https://www.grab.com/sg/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">닫기</button>
+		</div>
+		<!-- Grab//(L) -->
+		<!-- Nobroker(L) -->
+		<div class="layerPop layerS" id="OP11T101L">
+			<div class="layerContainer">
+				<h2 class="layerTit">NoBroker</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_101_on.gif" alt="NoBroker 로고"></div>
+					<p class="mtS">NoBroker 는 인도 기반의 부동산 관련 스타트업으로 기존의 off-line 부동산 중개인을 배제하고 웹과 모바일, 그리고 자체 콜센터를 통해 임대인과 임차인이 직접 연결될 수 있도록 하는 부동산 개인간(P2P) 직거래 플랫폼을 구축하여 서비스 중입니다.</p>
+					<div class="link"><p class="site"><a href="https://www.nobroker.in/" target="_blank" title="새창열기">https://www.nobroker.in/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">닫기</button>
+		</div>
+		<!-- Nobroker//(L) -->
+		<!-- Missfresh(L) -->
+		<div class="layerPop layerS" id="OP11T102L">
+			<div class="layerContainer">
+				<h2 class="layerTit">Missfresh</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_102_on.gif" alt="Missfresh 로고"></div>
+					<p class="mtS">Xuzheng 과 Zengbin 이 창업한 중국의 온라인 그로서리 회사로, 과일, 달걀, 고기, 생선류, 야채류 등을 온라인으로 판매하고 있습니다.</p>
+					<div class="link"><p class="site"><a href="https://www.missfresh.cn/" target="_blank" title="새창열기">https://www.missfresh.cn/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">닫기</button>
+		</div>
+		<!-- Missfresh//(L) -->
+<!-- //0503 추가 -->
+
 		<div class="dimmed"></div>

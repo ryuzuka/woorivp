@@ -10,15 +10,24 @@
 		<div class="familySite">
 			<span class="frmSelect">
 				<select title="Family Site">
-					<option value="https://m.ktb.co.kr/en/CIE/CIE1.jsp">KTB Investment &amp; Securities</option>
-					<option value="http://m.i-ktb.com/static/mobile/html/MA/m_main_eng.html">KTB Asset Management</option>
-					<option value="https://www.ktbst.co.th/index.php?s=p">KTB ST</option>
-					<option value="http://www.ktbpe.co.kr/en/">KTB PE</option>
-					<option value="http://www.ktbcredit.com/">KTB Credit Service</option>
-					<option value="https://www.ktbvc.com/">KTB Ventures</option>
-				</select>
+          <option value="https://www.woorifg.com/">Woori Financial Group</option>
+          <option value="https://www.wooribank.com/">Woori Bank</option>
+          <option value="https://pc.wooricard.com/dcpc/main.do">Woori Card</option>
+          <option value="https://www.woorifcapital.com/portal/portalMain.do">Woori Financial Capital</option>
+          <option value="https://www.wooriib.com/">Woori Investment Bank</option>
+          <option value="https://www.wooriat.com/">Woori Asset Trust</option>
+          <option value="https://www.woorisavingsbank.com/main/main.do">Woori Savings Bank</option>
+          <option value="http://www.woorifni.co.kr/">Woori Financial F&amp;I</option>
+          <option value="https://www.wooriam.kr/">Woori Asset Management</option>
+          <option value="https://www.wooriglobalam.com/main/main.asp">Woori Global Asset Management</option>
+          <option value="http://www.wooripe.com/">Woori Private Equity Asset Management</option>
+          <option value="https://www.wooricredit.com/">Woori Credit Information</option>
+          <option value="http://www.woorifs.co.kr/html/kor/index.do">Woori Fund Service</option>
+          <option value="http://www.woorifis.com/">Woori FIS</option>
+          <option value="https://www.wfri.re.kr/ko/web/main.php">Woori Finance Research Institute</option>
+        </select>
 			</span>
 			<a href="#" role="button" class="btnMove">GO</a>
 		</div>
-		<p class="copyright">COPYRIGHT&copy;KTB Network. ALL RIGHTS RESERVED</p>
+		<p class="copyright">COPYRIGHT&copy;WOORI Venture Partners. ALL RIGHTS RESERVED</p>
 	</footer>

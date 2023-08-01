@@ -4,13 +4,13 @@
 
 <section id="container" class="container">
 			<nav class="nav">
-				<ol class="navArea"><li>HOME</li><li>WHO WE ARE</li></ol>
+				<ol class="navArea"><li>HOME</li><li>Who We Are</li></ol>
 			</nav>
 			<div class="content">
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Who We Are</h1>
-						<p class="pageTxt">성공적인 투자를 위해 KTB네트워크의 구성원들이 함께 합니다.</p>
+						<p class="pageTxt">성공적인 투자를 위해 우리벤처파트너스의 구성원들이 함께 합니다.</p>
 					</div>
 				</div>
 				<div class="tabArea">
@@ -31,33 +31,20 @@
 								</ul>
 							</div>
 						</li>
+						<li class="sub"><a href="/home/whoweare/singapore.do">SINGAPORE</a>
+							<div class="subTab">
+								<ul class="inner">
+									<li class="on"><a href="#" aria-selected="true">Investment</a></li>
+								</ul>
+							</div>
+						</li>
 					</ul>
 				</div>
 				<!-- Investment -->
 				<div class="inner tabCont on"><!-- 탭 활성화시 class="on" -->
-					<h2 class="hidden">CHINA Investment</h2><!-- 탭 타이틀 -->					
+					<h2 class="hidden">CHINA Investment</h2><!-- 탭 타이틀 -->
 					<div class="memberList">
 						<ul>
-							<li class="active">
-								<div class="member">
-									<div class="left"><img src="/static/home/kr/images/contents/img_team30.jpg" alt="홍원호"></div>
-									<div class="right">
-										<h3>홍원호 <span class="pointColor">CHINA / 부사장(소장)</span></h3>
-										<dl>
-											<dt>주요경력</dt>
-											<dd>서강대학교 경영학과<br>국민은행<br>KTB네트워크</dd>
-										</dl>
-									</div>
-								</div>	
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/kr/images/contents/thumb_team30_on.jpg" alt="홍원호"></span>
-									<!-- 
-										활성화시 이미지, hover시 이미지  
-										src="/static/home/kr/images/contents/thumb_team30_off.jpg" 
-									-->
-									<strong>홍원호</strong> 부사장(소장)
-								</a>							
-							</li>
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team31.jpg" alt="Amy Yeh"></div>
@@ -68,52 +55,33 @@
 											<dd>University of Maryland MBA<br>Softbank China VC, PWC</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team31_off.jpg" alt="Amy Yeh"></span>
 									<strong>Amy Yeh</strong>  전무
-								</a>							
+								</a>
 							</li>
-							<li>
+							<li class="active">
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team32.jpg" alt="현지훈"></div>
 									<div class="right">
-										<h3>현지훈 <span class="pointColor">CHINA / 투자팀 / 이사</span></h3>
+										<h3>현지훈 <span class="pointColor">CHINA / 상해사무소장 / 상무</span></h3>
 										<dl>
 											<dt>주요경력</dt>
-											<dd>연세대학교 경제학과<br>IMM 인베스트먼트<br>KTB네트워크</dd>
+											<dd>연세대학교 경제학과<br>IMM 인베스트먼트<br>우리벤처파트너스</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/kr/images/contents/thumb_team32_off.jpg" alt="현지훈"></span>
-									<strong>현지훈</strong> 이사
-								</a>							
+									<span class="img"><img src="/static/home/kr/images/contents/thumb_team32_on.jpg" alt="현지훈"></span>
+									<strong>현지훈</strong> 상무
+								</a>
 							</li>
-							<li>
-								<div class="member">
-									<div class="left"><img src="/static/home/kr/images/contents/img_team33.jpg" alt="Grace"></div>
-									<div class="right">
-										<h3>Grace <span class="pointColor">CHINA / 투자팀 / 팀장</span></h3>
-										<dl>
-											<dt>주요경력</dt>
-											<dd>Fudan University 경제학과<br>Deloitte Touche Tohmatsu Certified Public <br>Accountants LLP</dd>
-											<dt>업무</dt>
-											<dd>투자심사 및 리서치</dd>
-										</dl>
-									</div>
-								</div>	
-								<a href="#" class="thumb">
-									<span class="img"><img src="/static/home/kr/images/contents/thumb_team33_off.jpg" alt="Grace"></span>
-									<strong>Grace</strong> 팀장
-								</a>							
-							</li>
-							<!-- 0415 수정 -->
 							<li>
 								<div class="member">
 									<div class="left"><img src="/static/home/kr/images/contents/img_team35.jpg" alt="Xu Tingting"></div>
 									<div class="right">
-										<h3>Xu Tingting <span class="pointColor">CHINA / 관리팀 / 팀장</span></h3>
+										<h3>Xu Tingting <span class="pointColor">CHINA / 투자팀 / 팀장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
 											<dd>경희대학교 한국어학과<br>경희대학교 한국어학 대학원<br>Art100 Gallery <br>우리은행</dd>
@@ -121,23 +89,24 @@
 											<dd>펀드 및 투자관리</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team35_off.jpg" alt="Xu Tingting"></span>
 									<strong>Xu Tingting</strong> 팀장
-								</a>							
+								</a>
 							</li>
-							<!-- //0415 수정 -->
-						</ul>					
+						</ul>
 					</div>
+          <!--
 					<div class="btnArea">
 						<a href="http://ktbchina.com/index.html" target="_blank" role="button" class="btnXL">중국 사이트 바로가기</a>
 					</div>
+					-->
 				</div>
 				<!-- //Investment -->
 				<!-- Management -->
 				<div class="inner tabCont">
-					<h2 class="hidden">CHINA Management</h2><!-- 탭 타이틀 -->					
+					<h2 class="hidden">CHINA Management</h2><!-- 탭 타이틀 -->
 					<div class="memberList">
 						<ul>
 							<li class="active">
@@ -147,20 +116,20 @@
 										<h3>박연화 <span class="pointColor">CHINA / 관리팀 / 팀장</span></h3>
 										<dl>
 											<dt>주요경력</dt>
-											<dd>상해사범대학교 부동산경영학과<br>KTB투자증권<br>한화종합화학 상해법인</dd>
+											<dd>상해사범대학교 부동산경영학과<br>다올투자증권<br>한화종합화학 상해법인</dd>
 											<dt>업무</dt>
 											<dd>행정/재무관리</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team34_on.jpg" alt="박연화"></span>
-									<!-- 
-										활성화시 이미지, hover시 이미지  
-										src="/static/home/kr/images/contents/thumb_team34_off.jpg" 
+									<!--
+										활성화시 이미지, hover시 이미지
+										src="/static/home/kr/images/contents/thumb_team34_off.jpg"
 									-->
 									<strong>박연화</strong> 팀장
-								</a>							
+								</a>
 							</li>
 							<!-- 0415 수정 -->
 							<!--<li>
@@ -175,18 +144,20 @@
 											<dd>펀드 및 투자관리</dd>
 										</dl>
 									</div>
-								</div>	
+								</div>
 								<a href="#" class="thumb">
 									<span class="img"><img src="/static/home/kr/images/contents/thumb_team35_off.jpg" alt="Xu Tingting"></span>
 									<strong>Xu Tingting</strong> 팀장
-								</a>							
+								</a>
 							</li>-->
 							<!-- //0415 수정 -->
-						</ul>				
+						</ul>
 					</div>
+          <!--
 					<div class="btnArea">
 						<a href="http://ktbchina.com/index.html" target="_blank" role="button" class="btnXL">중국 사이트 바로가기</a>
 					</div>
+					-->
 				</div>
 				<!-- //Management -->
 			</div>

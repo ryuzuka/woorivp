@@ -5,7 +5,7 @@
 		<div class="contents">
 			<div class="visualArea">
 				<h1 class="pageTit">Contact</h1>
-				<p role="text" class="pageTxt">내일을 위한 금융,<br>KTB네트워크와 만나보세요.</p>
+				<p role="text" class="pageTxt">내일을 위한 금융,<br>우리벤처파트너스와 만나보세요.</p>
 			</div>
 			<div class="contact">
 				<ul class="tglList">
@@ -18,11 +18,30 @@
 								<ul class="info">
 									<li>
 										<strong class="tit">전화번호</strong>
-										<a href="tel:031-628-6400" class="data tel">031-628-6400</a><!-- 0411 수정 -->
+										<a href="tel:070-4377-2000" class="data tel">070-4377-2000</a><!-- 0411 수정 -->
 									</li>
 									<li>
 										<strong class="tit">이메일</strong>
-										<a href="mailto:webmaster@ktbnetwork.com" class="data mail">webmaster@ktbnetwork.com</a><!-- 0415 수정 -->
+										<a href="mailto:webmaster@woorivp.com" class="data mail">webmaster@woorivp.com</a><!-- 0415 수정 -->
+									</li>
+								</ul>
+							</div>
+						</div>
+					</li>
+					<li>
+						<a href="#" role="button">Gangnam</a>
+						<div class="tglCont">
+							<div class="contactArea">
+								<p class="addr">서울특별시 강남구 테헤란로 301, 삼정빌딩 18층</p>
+								<div class="map"></div>
+								<ul class="info">
+									<li>
+										<strong class="tit">전화번호</strong>
+										<a href="tel:070-4377-2000" class="data tel">070-4377-2000</a><!-- 0411 수정 -->
+									</li>
+									<li>
+										<strong class="tit">이메일</strong>
+										<a href="mailto:webmaster@woorivp.com" class="data mail">webmaster@woorivp.com</a><!-- 0415 수정 -->
 									</li>
 								</ul>
 							</div>
@@ -40,10 +59,10 @@
 										<a href="tel:02-788-8400" class="data tel">+86-21-60671778</a>
 										<span class="data fax">+86-21-60671779</span>
 									</li>
-									<li>
+									<!-- <li>
 										<strong class="tit">이메일</strong>
-										<a href="mailto:webmaster@ktbnetwork.com" class="data mail">webmaster@ktbnetwork.com</a><!-- 0415 수정 -->
-									</li>
+										<a href="mailto:webmaster@ktbnetwork.com" class="data mail">webmaster@ktbnetwork.com</a> --><!-- 0415 수정
+									</li> -->
 								</ul>
 							</div>
 						</div>
@@ -59,13 +78,35 @@
 										<strong class="tit">전화번호</strong>
 										<a href="tel:1-650-324-4681" class="data tel">+1-650-324-4681</a>
 									</li>
-									<li>
+									<!-- <li>
 										<strong class="tit">이메일</strong>
 										<a href="mailto:info@ktbvc.com" class="data mail">info@ktbvc.com</a>
-									</li>
+									</li> -->
 								</ul>
 							</div>
 						</div>
+					</li>
+					<li>
+						<a href="#" role="button">Singapore</a>
+						<div class="tglCont">
+							<div class="contactArea">
+								<p class="addr">
+									1 Raffles Quay<br>
+									#09-02 North Tower<br>
+									Singapore 048583
+								</p>
+								<div class="map"></div>
+								<ul class="info">
+									<!-- <li>
+										<strong class="tit">전화번호</strong>
+										<a href="tel:1-650-324-4681" class="data tel">+1-650-324-4681</a>
+									</li> -->
+									<!-- <li>
+										<strong class="tit">이메일</strong>
+										<a href="mailto:info@ktbvc.com" class="data mail">info@ktbvc.com</a>
+									</li> -->
+								</ul>
+							</div>
 						</div>
 					</li>
 				</ul>
@@ -88,8 +129,8 @@
 						<div class="btn_file">
 							<input type="text" class="fileName" placeholder="파일을 첨부해주세요." disabled="disabled">
 							<button type="button">파일삭제</button>
-							<label for="ex_filename">첨부</label> 
-							<input type="file" id="ex_filename" class="fileHidden"> 
+							<label for="ex_filename">첨부</label>
+							<input type="file" id="ex_filename" class="fileHidden">
 						</div>
 					</li>
 				</ul>

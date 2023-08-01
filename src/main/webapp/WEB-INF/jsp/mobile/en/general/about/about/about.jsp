@@ -3,218 +3,286 @@
 
 	<section class="container">
 		<div class="contents">
-			<div class="visualArea company">
-				<h1 class="pageTit">About KTB Group</h1>
-				<strong class="pageSubTit">Growing with our Clients</strong>
-
-				<p role="text" class="pageTxt">In order to honor our clients’ confidence in us and to consistently deliver optimum results, KTB will strive to lead innovation in the financial markets, while adhering to a strict ethical code.</p>
+			<div class="visualArea">
+				<h1 class="pageTit">About WOORI <br />Venture Partners</h1>
+				<p role="text" class="pageTxt">Complete your success story<br />
+          with WOORI Financial Group</p>
 			</div>
 
-			<div class="tabType1 tabToggle">
-				<ul>
-					<li class="on"><a href="#CI1T1" aria-selected="true">History</a></li>
-					<li><a href="#CI1T2">Subsidiaries</a></li>
-				</ul>
-			</div>
-
-			<!-- History(T) -->
-			<div id="CI1T1" class="tabCont" style="display:block">
-				<h2 class="hidden">History</h2>
-				<p class="mtM">Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, KTB Financial Group(&quot;KTB&quot;) has since grown into a comprehensive financial group offering a wide range of financial services, including securities, asset management, venture capital and private equity.</p>
-
-				<div class="companyTit mtM">KTB has been<br><span class="point">steadily growing.</span></div>
-
-				<ol class="historyList">
-					<li>
-						<strong class="tit">MAY. 1981</strong>
-						<p class="txt">Established Korea Technology<br>Development Company</p>
-					</li>
-					<li>
-						<strong class="tit">SEP. 1999</strong>
-						<p class="txt">Established KTB Asset Management</p>
-					</li>
-					<li>
-						<strong class="tit">DEC. 2000</strong>
-						<p class="txt">Established KTB Ventures (U.S. entity)</p>
-					</li>
-					<li>
-						<strong class="tit">JUN. 2008</strong>
-						<p class="txt">Established KTB Network (Venture Capital)</p>
-					</li>
-					<li>
-						<strong class="tit">JUL. 2008</strong>
-						<p class="txt">Established KTB Securities Thailand</p>
-					</li>
-					<li>
-						<strong class="tit">JUL. 2008</strong>
-						<p class="txt">Established KTB Investment &amp; Securities</p>
-					</li>
-					<li>
-						<strong class="tit">FEB. 2009</strong>
-						<p class="txt">Established KTB Private Equity</p>
-					</li>
-				</ol>
-			</div>
-			<!-- //History(T) -->
 			<!-- Subsidiaries(T) -->
-			<div id="CI1T2" class="tabCont">
+			<div id="CI1T2" class="tabCont on about" style="display:block">
 				<h2 class="hidden">Subsidiaries</h2>
-
-				<div class="companyTit mtM">
-					<span class="point">Subsidiaries</span> of<br>KTB Securities
-				</div>
+        <div class="companyTit">
+          Woori Financial Group offer
+          a variety of financial services
+          to customers.
+        </div>
+        <div class="logo_img"><img src="/static/mobile/en/images/contents/img_woorigroup.png" alt=""></div>
 				<div class="affArea">
-					<div class="affImg"><img src="/static/mobile/en/images/contents/img_affiliates.png" alt=""></div>
+					<div class="affImg"><img src="/static/mobile/en/images/contents/img_woorigroup_line.png" alt=""></div>
 					<ul class="affList">
-						<li><a href="#pop1" role="button">KTB Investment &amp; Securities</a></li>
-						<li><a href="#pop2" role="button">KTB Asset Management</a></li>
-						<li><a href="#pop3" role="button">KTB Network</a></li>
-						<li><a href="#pop4" role="button">KTB PE</a></li>
-						<li><a href="#pop5" role="button">KTB ST (Securities Thailand)</a></li>
-						<li><a href="#pop6" role="button">KTB Ventures</a></li>
-						<li><a href="#pop7" role="button">KTB Credit Service</a></li>
+            <li><a href="#pop1" role="button">Woori Bank <span>100%</span></a></li>
+            <li><a href="#pop2" role="button">Woori Card <span>100%</span></a></li>
+            <li><a href="#pop3" role="button">Woori Financial Capital <span>100%</span></a></li>
+            <li><a href="#pop4" role="button">Woori Investment Bank <span>58.70%</span></a></li>
+            <li><a href="#pop5" role="button">Woori Asset Trust <span>51%</span></a></li>
+            <li><a href="#pop6" role="button">Woori Savings Bank <span>100%</span></a></li>
+            <li><a href="#pop11" role="button">Woori Financial F&I <span>100%</span></a></li>
+            <li><a href="#pop7" role="button">Woori Asset Management <span>73%</span></a></li>
+            <li class="venture"><a href="#pop8" role="button">Woori Venture Partners <span>52%</span></a></li>
+            <li><a href="#pop9" role="button">Woori Global Asset<br /> Management <span>100%</span></a></li>
+            <li><a href="#pop10" role="button">Woori Private Equity<br />Asset Management <span>100%</span></a></li>
+            <li><a href="#pop12" role="button">Woori Credit Information <span>100%</span></a></li>
+            <li><a href="#pop13" role="button">Woori Fund Services <span>100%</span></a></li>
+            <li><a href="#pop14" role="button">Woori FIS <span>100%</span></a></li>
+            <li><a href="#pop15" role="button">Woori Finance<br />Research Institute <span>100%</span></a></li>
 					</ul>
+          <p class="reference_day">As Of January 2023</p>
 				</div>
 			</div>
 			<!-- //Subsidiaries(T) -->
-		</article>
+		</div>
 	</section>
 <!-- layer pop(L) -->
-	<div class="layerPop en" id="pop1">
-		<div class="layerContainer">
-			<h2 class="layerTit">ktb Investment &amp; Securities</h2>
-			<div class="layerCont" tabindex="0">
-				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo1_eng.png" alt="ktb Investment & Securities" class="imgType01"><img src="/static/mobile/en/images/contents/logo1_eng02.png" alt="ktb Investment & Securities" class="imgType02"></div>
-					<div class="contBtn">
-						<a href="http://m.ktb.co.kr" target="_blank" title="새창열기">m.ktb.co.kr</a>
-					</div>
-				</div>
-				Originally founded in 1981 as Korea Technology Development Company, a government-funded investment vehicle specializing in technology-related investment opportunities, KTB Investment&Securities(&quot;KTB&quot;) has since grown into a comprehensive securities company offering a wide range of financial products and services including investment banking, institutional brokerage and individual wealth management.<br><br>
-				KTB's professional have long played leading role professionals in the structured finance market, with strong expertise in a wide range of alternative investment products, including real estate / SOC, aircraft and ship financing and renewable energy.<br><br>
-				KTB holds KTB Asset Management, KTB Network(Venture Capital), KTB Private Equity, KTB Credit Service as its wholly owned subsidiaries.
-			</div>
-		</div>
-		<button type="button" class="layerClose">close</button>
-	</div>
+  <div class="layerPop en" id="pop1">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">Woori Bank</h2>
+      <p class="layerDesc">The lifelong partner bank loved
+        by customers and shareholders</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.wooribank.com" class="btn_url" target="_blank" title="새창열기">www.wooribank.com</a>
+            <a href="tel:82+ 2-2002-3000" class="btn_link">82+ 2-2002-3000</a>
+          </div>
+        </div>
+        Woori Bank was the first Korean bank to be established in 1899 with national capital for the purpose of "facilitating the flow of funds and contributing to the development of the national economy." Woori Bank has prospered along with the development of the Korean economy to serve as a solid backbone for the Korean financial industry.Based upon the love of our customers, Woori Bank will continue to provide financial services that help customers, shareholders, and all of society to build a future of happiness, and to undertake our social responsibility as a lifelong, reliable financial partner.
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
 	<div class="layerPop en" id="pop2">
-		<div class="layerContainer">
-			<h2 class="layerTit">KTB Asset Management</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Card</h2>
+      <p class="layerDesc">Taking the Lead through Internal Stability</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo2_eng.png" alt="KTB Asset Management"></div>
 					<div class="contBtn">
-						<a href="http://m.i-ktb.com" target="_blank" title="새창열기">m.i-ktb.com</a>
-						<a href="tel:+82-2-788-8259">+82-2-788-8259</a>
-					</div>
+						<a href="https://www.wooricard.com" class="btn_url" target="_blank" title="새창열기">www.wooricard.com</a>
+            <a href="tel:82+ 1588-9959" class="btn_link">82+ 1588-9959</a>
+          </div>
 				</div>
-				KTB Asset Management has shown steady growth for more than 20 years since it was first founded in 1999. As of the end of 2018, its assets under management (AUM) reached USD 9.5 billion*.<br>
-				In particular, the company has distinguished itself in new business development, with successful launches of Multi-Asset Department and Alternative Investment Division in 2016.<br><br>
-				By launching and operating a number of successful public funds, such as First Class Stock Fund, KOSDAQ Venture Fund, and KONEX High-Yield Fund, KTB Asset Management continues to play a leading role in the market, and is expanding its unique portfolio of medium-risk and medium-return products such as EMP, NPL, and the asset allocation fund.<br><br>
-				The Alternative Investment Division has closed USD 1.7 billion-worth of real estate deals in major commercial districts around the world, and is operating USD 2.3 billion-worth of alternative investments as of the end of 2018.<br><br>
-				<p class="info">Source : Korea Financial Investment Association</p>
+				WOORI Financial Group Savings Bank is established in 1972 based on Korean capital.
+				As of the end of 2021, total asset is USD 3 billion, revenue is USD 0.3 billion, and BIS Ratio is 13.3%, which is a stable bank.
+				Acquired by WOORI Financial Group in December 2021, enhance synergy between group companies and invest in digital transformation to become innovative digital bank.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<div class="layerPop en" id="pop3">
-		<div class="layerContainer">
-			<h2 class="layerTit">KTB Network</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Financial Capital</h2>
+      <p class="layerDesc">A specialized credit finance company,
+        providing top financial services</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo3_eng.png" alt="KTB Network"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbnetwork.com" target="_blank" title="새창열기">www.ktbnetwork.com</a>
-						<a href="tel:+82-31-628-6400">+82-31-628-6400</a>
+						<a href="https://www.woorifcapital.com" class="btn_url" target="_blank" title="새창열기">www.woorifcapital.com</a>
+						<a href="tel:82+ 1544-8600" class="btn_link">82+ 1544-8600</a>
 					</div>
 				</div>
-				KTB Network is Korea's leading venture capital company with the longest history and investment track record, boasting an AUM of approx.<br>
-				USD 782 million at the end of 2018.<br>
-				KTB Network was ranked first in VC investment performance in 2017*.<br><br>
-				KTB Network became the first Korean venture capital firm to participate in the Chinese venture capital market, making its initial investment in China as early as the year 2000.  KTB Network has taken advantage of its “First Mover” status in China, generating consistent investment results year after year.  It has ranked among top 50 venture capital firms in China for nine years in a row. Furthermore, it boasts a wide-ranging global investment track record and strong network in the US, Japan and Southeast Asia.<br><br>
-				<p class="info">Source :  Korean Venture Capital Association</p>
+        Founded in 1994 and included as a subsidiary of Woori Financial Group in 2020, Aju Capital, a specialized credit finance company, has been providing vast range of products and services including auto loans, consumer loans and corporate loans, etc. Going forward, Aju Capital aims to deliver long-term value to customers, shareholders and communities by providing high quality financial products and services based on industry-leading risk management system and innovation.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<div class="layerPop en" id="pop4">
-		<div class="layerContainer">
-			<h2 class="layerTit">KTB PE</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Investment Bank</h2>
+      <p class="layerDesc">The Top Investment Bank, Providing
+        Total Financial Services</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo4_eng.png" alt="KTB PE"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbpe.co.kr" target="_blank" title="새창열기">www.ktbpe.co.kr</a>
-						<a href="tel:+82-2-2184-4100">+82-2-2184-4100</a>
+						<a href="https://www.woorifcapital.com" class="btn_url" target="_blank" title="새창열기">www.woorifcapital.com</a>
+						<a href="tel:82+ 2-2000-6600" class="btn_link">82+ 2-2000-6600</a>
 					</div>
 				</div>
-				KTB Private Equity (&quot;KTB PE&quot;) was spun off from KTB Investment &amp; Securities in 2012 to become an independent corporate entity serving the growing private equity market in Korea.<br><br>
-				KTB PE has a cumulative AUM of USD 1.8 billion and has achieved excellent investment results in a variety of industries by enhancing corporate value through proactive management participation and a buy-out-centered investment philosophy.<br>
-				Its key investments-to-date include Junjin Heavy Industry, Dongbu Express, JW Pharmaceutical, LIG Nex1, Nature Republic, Leenos, Toptec and more.
+        Woori Investment Bank is the one and only total financial subsidiary of Woori Bank, representing the nation’s traditional banking services. Woori Investment Bank is committed to being a faithful asset management partner by providing upgraded products and services to clients, using diversified licenses, credit ratings, and the network of Woori Financial Group. Woori Investment Bank promises to put in all efforts as a companion to achieve an abundant future for our customers.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<div class="layerPop en" id="pop5">
-		<div class="layerContainer">
-			<h2 class="layerTit">ktb ST (Securities Thailand)</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Asset Trust</h2>
+      <p class="layerDesc">One-stop Real Estate Finance Service Provider,
+        enhancing customers’ value.</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo5_eng.png" alt="KTB ST"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbst.co.th" target="_blank" title="새창열기">www.ktbst.co.th</a>
-						<a href="tel:+66-02-648-1111">+66-02-648-1111</a>
+						<a href="https://www.wooriat.com" class="btn_url" target="_blank" title="새창열기">www.wooriat.com</a>
+						<a href="tel:82+ 2-6202-3000" class="btn_link">82+ 2-6202-3000</a>
 					</div>
 				</div>
-				Acquired by KTB Investment &amp; Securities in August 2008, KTB Securities Thailand<br>
-				(&quot;KTB ST&quot;) is a securities company based in Thailand.<br><br>
-				Recent expansion efforts in Wealth Management, ECM, DCM and Investment Banking business lines have bolstered asset management capabilities KTB ST, transforming the company into a comprehensive securities company offering a complete range of financial products.<br><br>
-				In the second half of 2018, KTB ST has continued to expand its footprint in Thailand as the only Korean financial investment company, successfully launching asset management and REITs management subsidiaries.
+        Since November 2007, Woori Asset Trust has been a reliable partner in real estate-related business areas, providing real estate finance services. With a vast range of Woori Financial Group’s domestic and global networks, and leveled-up digital competitiveness, Woori Asset Trust envisions to create synergies within the group and aims to become a leading real estate trust company that will satisfy all of our customers’ expectations.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<div class="layerPop en" id="pop6">
-		<div class="layerContainer">
-			<h2 class="layerTit">KTB Ventures</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Savings Bank</h2>
+      <p class="layerDesc">No.1 Savings bank with customers</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo6_eng.png" alt="KTB Ventures"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbvc.com" target="_blank" title="새창열기">www.ktbvc.com</a>
-						<a href="tel:+1-650-324-4681">+1-650-324-4681</a>
+						<a href="https://www.woorisavingsbank.com" class="btn_url" target="_blank" title="새창열기">www.woorisavingsbank.com</a>
+						<a href="tel:82+ 1599-0038" class="btn_link">82+ 1599-0038</a>
 					</div>
 				</div>
-				KTB Ventures,<br>
-				KTB’s first overseas subsidiary,<br>
-				was established in Palo Alto, California,<br>
-				the heart of American Silicone Valley in June 1988.<br><br>
-				KTB Ventures has an accumulated investment record worth USD 100 million.<br>
-				Working closely with KTB Network, KTB Ventures has recently ramped up its efforts to identify early-stage investment opportunities in North America.
+        Since commencing operations in 1972, Aju savings bank has been a lifetime financial partner to individual customers and companies. As a subsidiary of Woori Financial Group, Aju savings bank strives to become a reliable financial company going forward, and make people’s financial lives better and commit to the local communities by offering best financial products and services.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<div class="layerPop en" id="pop7">
-		<div class="layerContainer">
-			<h2 class="layerTit">KTB Credit Service</h2>
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Asset Management</h2>
+      <p class="layerDesc">Asset Manager Creating Long-Term
+        Value for Investors</p>
 			<div class="layerCont" tabindex="0">
 				<div class="contTit">
-					<div class="logo affListImg"><img src="/static/mobile/en/images/contents/logo7_eng.png" alt="KTB Credit Service"></div>
 					<div class="contBtn">
-						<a href="http://www.ktbcredit.com" target="_blank" title="새창열기">www.ktbcredit.com</a>
-						<a href="tel:+82-2-721-6900">+82-2-721-6900</a>
+						<a href="https://www.wooriam.kr" class="btn_url" target="_blank" title="새창열기">www.wooriam.kr</a>
+						<a href="tel:82+ 2-2118-0500" class="btn_link">82+ 2-2118-0500</a>
 					</div>
 				</div>
-				KTB Credit Service (&quot;KTB Credit&quot;),<br>
-				which first began as Nara Credit Service in 1999, became an affiliate of KTB Investment &amp; Securities in 2001.<br><br>
-				Services provided by KTB Credit include<br>
-				debt collection, credit investigation, issuance of civil affair documents and real estate management.<br>
-				KTB Credit has been a clear market leader in the field of debt collection and related information services, as seen in its role as the primary debt collection agency for the Korea Deposit Insurance Corporation for nearly 20 years.<br><br>
-				<p class="info">Served as the debt collector for the Korea Deposit Insurance Corporation from 2001 to Jan. 2019</p>
+        Founded in 2000, Woori Asset Management, a subsidiary of Woori Financial Group, aims to serve the needs of investors through a broad range of products and services that cover equity, fixed income, multi-asset as well as alternative investment opportunities in both the domestic and overseas markets. The company is uniquely positioned to provide financial products and investment solutions that meet investors' financial objectives by utilizing the core competencies of Woori Financial Group's vast network.
 			</div>
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
+	<div class="layerPop en" id="pop9">
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Global Asset Management</h2>
+      <p class="layerDesc">A True Global Asset Manager
+        in Global and Alternative Investment</p>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="contBtn">
+						<a href="https://www.wooriglobalam.com" class="btn_url" target="_blank" title="새창열기">www.wooriglobalam.com</a>
+						<a href="tel:82+ 2-2071-9900" class="btn_link">82+ 2-2071-9900</a>
+					</div>
+				</div>
+        With the in-depth knowledge in global investment and well-structured risk management system, Woori Global Asset Management provides optimized investment solution to meet investors’ various needs. The Company will continue to be a true global asset manager in global and alternative investment that covers equity, fixed income, infrastructure and real estate, etc.
+			</div>
+		</div>
+		<button type="button" class="layerClose">close</button>
+	</div>
+	<div class="layerPop en" id="pop10">
+		<div class="layerContainer aboutLayer">
+			<h2 class="layerTit">Woori Private Equity
+        Asset Management</h2>
+      <p class="layerDesc">PE Management Company, Leading
+        Advanced Finance with Competitiveness</p>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.wooripe.com" class="btn_url" target="_blank" title="새창열기">www.wooripe.com</a>
+            <a href="tel:82+ 2-6730-1200" class="btn_link">82+ 2-6730-1200</a>
+          </div>
+				</div>
+        Established in October 2005 to develop a company specializing in private equity fund management representing Korea, by registering with the collective investment of private equity funds it added the business of managing hedge funds to the existing business of managing private equity funds.
+			</div>
+		</div>
+		<button type="button" class="layerClose">close</button>
+	</div>
+  <div class="layerPop en" id="pop11">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">Woori Financial F&I</h2>
+      <p class="layerDesc">An NPL investment specialist, at the forefront
+        of the nation’s non-performing loan market</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.woorifni.co.kr" class="btn_url" target="_blank" title="새창열기">www.woorifni.co.kr</a>
+            <a href="tel:82+ 2-739-1389" class="btn_link">82+ 2-739-1389</a>
+          </div>
+        </div>
+        Newly established in 2022, Woori Financial F&I Inc. is a subsidiary of Woori Financial Group that specializes in non-performing loan investments. With its outstanding investment-focused workforce and expertise, Woori Financial F&I Inc. helps enhance the prudential soundness of financial institutions and provides support for corporate financial rehabilitation by managing the corporate restructuring process. Moving forward, Woori Financial F&I Inc. has its sights set on becoming Korea’s leader in the NPL investment market.
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
+  <div class="layerPop en" id="pop12">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">Woori Credit Information</h2>
+      <p class="layerDesc">The Best Companion to
+        Accomplish a Credit Society</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="https://www.wooricredit.com" class="btn_url" target="_blank" title="새창열기">www.wooricredit.com</a>
+            <a href="tel:82+ 2-2262-5800" class="btn_link">82+ 2-2262-5800</a>
+          </div>
+        </div>
+        The nation’s first credit information company that leads the market with a long history and expertise! Woori Credit Information is the first domestic company to specialize in credit information, debt collection, and lease investigation, and was established in 1991 with full investment by Woori Bank. The company acquired the A+ rating from the Enterprise Credit Rating, winning shareholders’ confidence. Moreover, the company embraces various social contribution activities such as the 1 Company 1 Village Country Love initiative, social welfare, and environment protection. Being a strong financial partner to creditors and a supportive partner to debtors for credit recovery, Woori Credit Information will be stepping stones for them and the best partner to accomplish a credit society.
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
+  <div class="layerPop en" id="pop13">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">Woori Fund Services</h2>
+      <p class="layerDesc">Woori Fund Services
+        Accomplish Trust of 200 Trillion KRW in 2020</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="http://www.woorifs.co.kr" class="btn_url" target="_blank" title="새창열기">www.woorifs.co.kr</a>
+            <a href="tel:82+ 2-3151-3510" class="btn_link">82+ 2-3151-3510</a>
+          </div>
+        </div>
+        We will continue to serve and impress our customers, who are the most valuable to us, for the next hundred years. Woori Fund Services provides various administration services including fund accounting and reference price computation for collective investment vehicles and general administration for real estate investment trusts.As an affiliate of Woori Financial Group, Woori Fund Services successfully completed the development of “FundOne”, a next generation administration system, in August of 2014, and has exerted ongoing efforts to develop systems and talent to provide better services.
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
+  <div class="layerPop en" id="pop14">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">Woori FIS</h2>
+      <p class="layerDesc">2020 Global Finance ICT Partner</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="https://www.woorifis.com" class="btn_url" target="_blank" title="새창열기">www.woorifis.com</a>
+            <a href="tel:82+ 2-3151-7000" class="btn_link">82+ 2-3151-7000</a>
+          </div>
+        </div>
+        As a comprehensive financial services ICT company, Woori FIS is able to provide One-Stop services from development planning to execution, based on expertise and hands-on experience derived from numerous projects working with banking, credit card, fund, insurance, and other related companies. Woori FIS is the first South Korean company to successfully implement a total IT outsourcing model from development to IT infrastructure management. By acquiring three major international qualities of development, management, and security, our excellent ICT management system was internationally renowned. Based on these strengths, Woori FIS is leading the innovation of customer business value by supporting stable global services to over 300 foreign branches in the U.S., China, and others and playing key roles in building the WiBee Bank and K Bank systems in the FinTech wave.
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
+  <div class="layerPop en" id="pop15">
+    <div class="layerContainer aboutLayer">
+      <h2 class="layerTit">Woori Finance
+        Research Institute</h2>
+      <p class="layerDesc">The Insight Provider of Woori Financial Group,
+        The Opinion Leader of the Korean Financial Industry,
+        The Think Tank Leading the Global Financial Industry!</p>
+      <div class="layerCont" tabindex="0">
+        <div class="contTit">
+          <div class="contBtn">
+            <a href="https://www.wfri.re.kr" class="btn_url" target="_blank" title="새창열기">www.wfri.re.kr</a>
+            <a href="tel:82+ 2-2173-0500" class="btn_link">82+ 2-2173-0500</a>
+          </div>
+        </div>
+        s the think tank of Woori Financial Group, Woori Finance Research Institute supports the decision-making of executives and consults development strategies for affiliates, seeking balanced development of the group’s industry portfolio. As the opinion leader and a specialized research institute leading financial industries both at home and abroad, we also share our research results through various types of reports, seminars, and press releases.
+      </div>
+    </div>
+    <button type="button" class="layerClose">close</button>
+  </div>
 	<div class="dimmed"></div>
 <!-- //layer pop(L) -->

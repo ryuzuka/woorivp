@@ -88,8 +88,7 @@
 							alt="B2LINK 로고"><span>B2LINK</span></a></li>
 					<li><a href="#OP11T33L"><img
 							src="/static/home/kr/images/contents/img_partners_33_off.gif"
-							alt="BRAVOWHALE TECHNOLOGY 로고"><span>BRAVOWHALE
-								TECHNOLOGY</TECHNOLOGYspan></a></li>
+							alt="BRAVOWHALE TECHNOLOGY 로고"><span>BRAVOWHALE TECHNOLOGY</span></a></li>
 
 					<li><a href="#OP11T34L"><img
 							src="/static/home/kr/images/contents/img_partners_34_off.gif"
@@ -267,7 +266,15 @@
 					<li><a href="#OP11T98L"><img
 							src="/static/home/kr/images/contents/img_partners_98_off.gif" alt="㈜상화 로고"><span>㈜상화</span></a></li>
 					<li><a href="#OP11T99L"><img src="/static/home/kr/images/contents/img_partners_99_off.gif" alt="스타일쉐어 로고"><span>스타일쉐어</span></a></li><!-- 0417 추가 -->
-					
+
+					<!-- 0503 추가 -->
+					<li><a href="#OP11T100L"><img src="/static/home/kr/images/contents/img_partners_100_off.gif" alt="Grab 로고"><span>Grab</span></a></li>
+					<li><a href="#OP11T101L"><img src="/static/home/kr/images/contents/img_partners_101_off.gif" alt="Nobroker 로고"><span>Nobroker</span></a></li>
+					<li><a href="#OP11T102L"><img src="/static/home/kr/images/contents/img_partners_102_off.gif" alt="MissFresh 로고"><span>MissFresh</span></a></li>
+					<!-- //0503 추가 -->
+
+					<li><a href="#OP11T103L"><img src="/static/home/kr/images/contents/img_partners_103_v2_off.png" alt="(주)파블로항공 로고"><span>(주)파블로항공</span></a></li>
+
 				</ul>
 			</div>
 		</div>
@@ -776,7 +783,7 @@
 					alt="한국엔에프씨 로고">
 			</div>
 			<p class="mtS">한국엔에프씨는 스마트폰의 NFC기능을 활용한 모바일 결제 및 본인인증 서비스를 제공하여
-				신용/체크 카드를 활용한 간편하고 안전한 모바일 커머스 시스템을 제공하며, 삼성페이를 활용한 폰2폰 결제서비스간편주문
+				신용/체크 카드를 활용한 간편하고 안전한 모바일 커머스 시스템을 제공하며, 삼성페이를 활용한 phone To phone 결제서비스간편주문
 				시스템인 NFC슈퍼태그를 제공하는 핀테크 기업입니다.</p>
 			<div class="link">
 				<p class="site">
@@ -2167,7 +2174,7 @@
 				<h2 class="layerTit">스타일쉐어</h2>
 				<div class="layerCont" tabindex="0">
 					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_99_on.gif" alt="스타일쉐어 로고"></div>
-					<p class="mtS">스타일쉐어는 콘텐츠 기반의 커머스 플랫폼을 제공하는 회사입니다. 
+					<p class="mtS">스타일쉐어는 콘텐츠 기반의 커머스 플랫폼을 제공하는 회사입니다.
 					대한민국 Z세대 3명 중 1명이 사용하는 패션앱 StyleShare를 운영하고 있으며, 2535 타겟의 패션 라이프스타일 편집샵 29CM를 자회사로 두고 있습니다. 월 100만명 이상의 사용자가 하루 수만 건의 패션 콘텐츠를 공유하며 2,000여곳 이상의 브랜드가 입점하여 판매하고 있습니다. </p>
 					<div class="link"><p class="site"><a href="https://about.stylesha.re/" target="_blank" title="새창열기">https://about.stylesha.re/</a></p></div>
 				</div>
@@ -2176,5 +2183,61 @@
 		</div>
 		<!-- 스타일쉐어//(L) -->
 <!-- //0417 추가 -->
+
+<!-- 0503 추가 -->
+		<!-- Grab(L) -->
+		<div class="layerPop layerS" id="OP11T100L">
+			<div class="layerContainer">
+				<h2 class="layerTit">Grab</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_100_on.gif" alt="Grab 로고"></div>
+					<p class="mtS">싱가포르에 본부를 둔 동남아시아 최대 차량공유 업체입니다. 그랩은 &apos;승차 공유&apos; 시장에만 머무르지 않고 음식 배달 서비스 &apos;그랩푸드&apos;, 물류 배달 서비스 &apos;그랩 익스프레스&apos;, 모바일 결제 시스템 &apos;그랩 페이&apos; 등 모든 일상생활을 지배하는 슈퍼 애플리케이션(앱)으로 진화하는 중입니다.</p>
+					<div class="link"><p class="site"><a href="https://www.grab.com/sg/" target="_blank" title="새창열기">https://www.grab.com/sg/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">닫기</button>
+		</div>
+		<!-- Grab//(L) -->
+		<!-- Nobroker(L) -->
+		<div class="layerPop layerS" id="OP11T101L">
+			<div class="layerContainer">
+				<h2 class="layerTit">NoBroker</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_101_on.gif" alt="NoBroker 로고"></div>
+					<p class="mtS">NoBroker 는 인도 기반의 부동산 관련 스타트업으로 기존의 off-line 부동산 중개인을 배제하고 웹과 모바일, 그리고 자체 콜센터를 통해 임대인과 임차인이 직접 연결될 수 있도록 하는 부동산 개인간(P2P) 직거래 플랫폼을 구축하여 서비스 중입니다.</p>
+					<div class="link"><p class="site"><a href="https://www.nobroker.in/" target="_blank" title="새창열기">https://www.nobroker.in/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">닫기</button>
+		</div>
+		<!-- Nobroker//(L) -->
+		<!-- Missfresh(L) -->
+		<div class="layerPop layerS" id="OP11T102L">
+			<div class="layerContainer">
+				<h2 class="layerTit">Missfresh</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_102_on.gif" alt="Missfresh 로고"></div>
+					<p class="mtS">Xuzheng 과 Zengbin 이 창업한 중국의 온라인 그로서리 회사로, 과일, 달걀, 고기, 생선류, 야채류 등을 온라인으로 판매하고 있습니다.</p>
+					<div class="link"><p class="site"><a href="https://www.missfresh.cn/" target="_blank" title="새창열기">https://www.missfresh.cn/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">닫기</button>
+		</div>
+	<!-- Missfresh//(L) -->
+<!-- //0503 추가 -->
+
+	<!-- (주)파블로항공 -->
+	<div class="layerPop layerS" id="OP11T103L">
+		<div class="layerContainer">
+			<h2 class="layerTit">(주)파블로항공</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="tcenter"><img src="/static/home/kr/images/contents/img_partners_103_v2_on.png" alt="(주)파블로항공 로고"></div>
+				<p class="mtS">파블로항공은 드론배송솔루션 및 UAM 통합관제시스템 전문 기업입니다. 국내 산간 및 도심지역에서 드론배송 서비스를 위한 실증사업을 성료했고, 미국에서 뉴욕항공진흥청 및 NASA와 함께 실증 프로젝트를 진행하고 있습니다. 이를 통해 국내외 시장에서 물류 드론 서비스를 확대하고 UAM 산업 시장을 선도해 나갈 계획입니다.</p>
+				<div class="link"><p class="site"><a href="http://www.pabloair.com/" target="_blank" title="새창열기">http://www.pabloair.com/</a></p></div>
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- (주)파블로항공 -->
 
 <div class="dimmed"></div>

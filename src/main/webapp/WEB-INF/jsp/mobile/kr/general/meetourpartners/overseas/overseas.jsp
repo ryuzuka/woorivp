@@ -156,6 +156,29 @@
 								<em>NEUROPTIKA</em>
 							</a>
 						</li>
+						
+						<!-- 0503 추가 -->
+						<li>
+							<a href="#partnerpop100" role="button">
+								<img src="/static/mobile/kr/images/contents/img_partners_100.gif" alt="Grab 로고 이미지" />
+								<em>Grab</em>
+							</a>
+						</li>
+						<li>
+							<a href="#partnerpop101" role="button">
+								<img src="/static/mobile/kr/images/contents/img_partners_101.gif" alt="Nobroker 로고 이미지" />
+								<em>Nobroker</em>
+							</a>
+						</li>
+						<li>
+							<a href="#partnerpop102" role="button">
+								<img src="/static/mobile/kr/images/contents/img_partners_102.gif" alt="Missfresh 로고 이미지" />
+								<em>Missfresh</em>
+							</a>
+						</li>
+						<!-- //0503 추가 -->
+						
+						
 					</ul><!-- //partnerList -->
 				</div>
 			</div>
@@ -554,5 +577,60 @@
 		<button type="button" class="layerClose">닫기</button>
 	</div>
 	<!-- //NEUROPTIKA -->
+	
+	<!-- 0503 추가 -->
+	<!-- Grab -->
+	<div class="layerPop" id="partnerpop100">
+		<div class="layerContainer">
+			<h2 class="layerTit">Grab</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/kr/images/contents/img_partners_100.gif" alt="Grab 로고 이미지"></div>
+					<div class="contBtn">
+						<a href="https://www.grab.com/sg/" target="_blank" title="새창열기">https://www.grab.com/sg/</a>
+					</div>
+				</div>
+				싱가포르에 본부를 둔 동남아시아 최대 차량공유 업체입니다. 그랩은 &apos;승차 공유&apos; 시장에만 머무르지 않고 음식 배달 서비스 &apos;그랩푸드&apos;, 물류 배달 서비스 &apos;그랩 익스프레스&apos;, 모바일 결제 시스템 &apos;그랩 페이&apos; 등 모든 일상생활을 지배하는 슈퍼 애플리케이션(앱)으로 진화하는 중입니다.
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- //Grab -->
+	<!-- Nobroker -->
+	<div class="layerPop" id="partnerpop101">
+		<div class="layerContainer">
+			<h2 class="layerTit">Nobroker</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/kr/images/contents/img_partners_101.gif" alt="Nobroker 로고 이미지"></div>
+					<div class="contBtn">
+						<a href="https://www.nobroker.in/" target="_blank" title="새창열기">https://www.nobroker.in/</a>
+					</div>
+				</div>
+				NoBroker 는 인도 기반의 부동산 관련 스타트업으로 기존의 off-line 부동산 중개인을 배제하고 웹과 모바일, 그리고 자체 콜센터를 통해 임대인과 임차인이 직접 연결될 수 있도록 하는 부동산 개인간(P2P) 직거래 플랫폼을 구축하여 서비스 중입니다.
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- //Nobroker -->
+	<!-- Missfresh -->
+	<div class="layerPop" id="partnerpop102">
+		<div class="layerContainer">
+			<h2 class="layerTit">Missfresh</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/kr/images/contents/img_partners_102.gif" alt="Missfresh 로고 이미지"></div>
+					<div class="contBtn">
+						<a href="https://www.missfresh.cn/" target="_blank" title="새창열기">https://www.missfresh.cn/</a>
+					</div>
+				</div>
+				Xuzheng 과 Zengbin 이 창업한 중국의 온라인 그로서리 회사로, 과일, 달걀, 고기, 생선류, 야채류 등을 온라인으로 판매하고 있습니다.
+			</div>
+		</div>
+		<button type="button" class="layerClose">닫기</button>
+	</div>
+	<!-- //Missfresh -->
+<!-- //0503 추가 -->
+	
 <!-- //partner소개 레이어팝업(L) -->
 	<div class="dimmed"></div>

@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
 <%@ include file="/WEB-INF/jsp/common/import/taglib.jspf" %>
 	<header>
-		<h1><a href="/home/en/main/main.do">KTB Network</a></h1>
+		<h1><a href="/home/en/main/main.do">WOORI Venture Partners</a></h1>
 		<button type="button" class="menu">menu</button>
 	</header>
 
@@ -9,7 +9,7 @@
 		<h2 class="hidden">total menu</h2>
 		<div class="menuTop">
 			<div class="inner">
-				<p class="tit">KTB Network total menu</p>
+				<p class="tit">WOORI Venture Partners total menu</p>
 				<button type="button" class="goMain" onclick="location.href='/home/en/main/main.do'">go main</button>
 			</div>
 			<ul class="etc">
@@ -23,8 +23,9 @@
 					<li><a href="/home/en/watwedo/overview.do">What We Do</a></li>
 					<li><a href="/home/en/whoweare/korea.do">Who We Are</a></li>
 					<li><a href="/home/en/meetourpartners/all.do">Meet Our Partners</a></li>
+					<!--<li><a href="https://ktbnetwork.irpage.co.kr/" target="_blank">IR</a></li>-->
 					<li><a href="/home/en/contact/contact.do">Contact</a></li>
-					<li><a href="/home/en/about/about.do">About KTB Group</a></li>
+					<li><a href="/home/en/about/about.do">About WOORI Financial Group</a></li>
 				</ul>
 				<!--// -->
 			</div>

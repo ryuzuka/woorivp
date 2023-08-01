@@ -517,6 +517,33 @@
 							</a>
 						</li><!-- 0417 추가 -->
 						
+						<!-- 0503 추가 -->
+						<li>
+							<a href="#partnerpop100" role="button">
+								<img src="/static/mobile/en/images/contents/img_partners_100.gif" alt="Grab image" />
+								<em>Grab</em>
+							</a>
+						</li>
+						<li>
+							<a href="#partnerpop101" role="button">
+								<img src="/static/mobile/en/images/contents/img_partners_101.gif" alt="Nobroker image" />
+								<em>Nobroker</em>
+							</a>
+						</li>
+						<li>
+							<a href="#partnerpop102" role="button">
+								<img src="/static/mobile/en/images/contents/img_partners_102.gif" alt="Missfresh image" />
+								<em>Missfresh</em>
+							</a>
+						</li>
+						<!-- //0503 추가 -->
+
+						<li>
+							<a href="#partnerpop103" role="button">
+								<img src="/static/mobile/en/images/contents/img_partners_103_v2.png" alt="PABLO AIR image" />
+								<em>PABLO AIR</em>
+							</a>
+						</li>
 					</ul><!-- //partnerList -->
 				</div>
 			</div>
@@ -1938,6 +1965,78 @@
 	</div>
 	<!-- //Styleshare -->
 <!-- //0417 추가 -->
+	
+	<!-- 0503 추가 -->
+	<!-- Grab -->
+	<div class="layerPop" id="partnerpop100">
+		<div class="layerContainer">
+			<h2 class="layerTit">Grab</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/en/images/contents/img_partners_100.gif" alt="Grab image"></div>
+					<div class="contBtn">
+						<a href="https://www.grab.com/sg/" target="_blank" title="open new window">https://www.grab.com/sg/</a>
+					</div>
+				</div>
+				Grab is a ride-hailing platform that offers booking service for taxis, private cars, and motorbikes through one mobile.
+			</div>
+		</div>
+		<button type="button" class="layerClose">close</button>
+	</div>
+	<!-- //Grab -->
+	<!-- Nobroker -->
+	<div class="layerPop" id="partnerpop101">
+		<div class="layerContainer">
+			<h2 class="layerTit">Nobroker</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/en/images/contents/img_partners_101.gif" alt="Nobroker image"></div>
+					<div class="contBtn">
+						<a href="https://www.nobroker.in/" target="_blank" title="open new window">https://www.nobroker.in/</a>
+					</div>
+				</div>
+				NoBroker.com is India’s unique real estate platform that makes it possible to Buy/Sell/Rent houses without paying any brokerage.
+			</div>
+		</div>
+		<button type="button" class="layerClose">close</button>
+	</div>
+	<!-- //Nobroker -->
+	<!-- Missfresh -->
+	<div class="layerPop" id="partnerpop102">
+		<div class="layerContainer">
+			<h2 class="layerTit">Missfresh</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/en/images/contents/img_partners_102.gif" alt="Missfresh image"></div>
+					<div class="contBtn">
+						<a href="https://www.missfresh.cn/" target="_blank" title="open new window">https://www.missfresh.cn/</a>
+					</div>
+				</div>
+				Missfresh is one of the leading e-commerce retailer in china. Founded in Nov 2014, by founder Xuzheng(CEO) and co-founder Zengbin(COO). Company sales Fruit, Egg &amp; Meat, Fisheries, Vegetables, Dairy, Beverage, Snacks etc,.
+			</div>
+		</div>
+		<button type="button" class="layerClose">close</button>
+	</div>
+	<!-- //Missfresh -->
+<!-- //0503 추가 -->
+
+	<!-- PABLO AIR(L) -->
+	<div class="layerPop" id="partnerpop103">
+		<div class="layerContainer">
+			<h2 class="layerTit">PABLO AIR</h2>
+			<div class="layerCont" tabindex="0">
+				<div class="contTit">
+					<div class="logo"><img src="/static/mobile/en/images/contents/img_partners_103_v2.png" alt="PABLO AIR Logo"></div>
+					<div class="contBtn">
+						<a href="http://www.pabloair.com/" target="_blank" title="open new window">http://www.pabloair.com/</a>
+					</div>
+				</div>
+				PABLO AIR is a specialized company in drone delivery solutions and UAM integrated control systems. They have completed demonstration projects for drone delivery services in mountainous and urban areas in Korea, and are currently conducting demonstration projects with the NUAIR and NASA in the United States. Through these efforts, they plan to expand drone logistics services in domestic and international markets and lead the UAM industry.
+			</div>
+		</div>
+		<button type="button" class="layerClose">Close</button>
+	</div>
+	<!-- PABLO AIR//(L) -->
 	
 <!-- //partner layerpop(L) -->
 	<div class="dimmed"></div>

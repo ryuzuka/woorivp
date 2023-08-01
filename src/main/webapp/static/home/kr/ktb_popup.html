@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <link rel="stylesheet" type="text/css" href="/static/home/kr/css/p_font.css">
+  <script type="text/javascript" src="/static/home/kr/js/jquery-1.11.1.min.js"></script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>우리벤처파트너스</title>
+	<style>
+		html {
+			/* overflow: hidden */
+		}
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		img {
+      width: 720px;
+      vertical-align: top;
+		}
+		.notice-popup {background:#f7f7f7;}
+		.noticeBox{position:relative;width:500px;margin:0 auto;padding:50px 0;color:#555;text-align:center}
+		.noticeBox dt{margin-bottom:30px;font-size:22px;font-weight:600;color:#111;}
+		.noticeBox:after{content:'';position:absolute;bottom:0;right:0;width:70px;height:70px;background:url(../images/common/bg_triangle.png) 0 0 no-repeat}
+		.noticeBox .dateTxt{display:block;margin-bottom:10px;font-size:18px}
+		.noticeBox .dateTxt:before{content:'';display:block;width:30px;height:1px;margin:20px auto;background:#111}
+		.noticeBox .ceoTxt{font-size:20px}
+
+    .notice-popup.type{background:#f2f2f2;font-family:'notokr'}
+    .notice-popup.type .noticeBox {width:487px;padding:0;text-align:left;word-break:keep-all;}
+    .notice-popup.type .noticeBox dt {margin:0;padding:23px 0 22px 32px;background:#0067AC;font-size:24px;font-weight:500;color:#fff;line-height:35px;}
+    .notice-popup.type .noticeBox dd {padding:31px;min-height:276px;font-weight:400;font-size:16px;color:#000;}
+	</style>
+</head>
+<body class="main">
+	<div>
+		<!-- 마크업으로 팝업 띄울때 -->
+		<div class="notice-popup type">
+			<dl class="noticeBox">
+				<dt>공지사항</dt>
+				<dd style="text-align:left;">
+					<p>우리벤처파트너스는 개인을 대상으로 투자 또는 송금을 권유하는 행위를 하지않습니다.<br>
+최근 당사의 임직원을 사칭하여 높은 수익과 원금을 보장하는 사기 및 유사범행이 이루어지고있음을 확인하였습니다.<br>
+인가 또는 허락받지않거나 등록 또는 신고를 하지 아니한 채 사람들로부터 투자금을 모으는 유사수신행위는 불법입니다.<br>
+이러한 범죄행위로 인하여 피해를 입으시는일이 없도록 각별히 주의하여 주시기 바랍니다.</p>
+					<!--<div class="tcenter mtL">
+						<span class="dateTxt">2023년 2월 14일</span>
+						<strong class="ceoTxt">케이티비네트워크주식회사 대표이사 김창규</strong>
+					</div>-->
+				</dd>
+			</dl>
+		</div>
+		<!-- // 마크업으로 팝업 띄울때 -->
+
+		<!-- 이미지로 팝업 띄울때 -->
+    <!-- <img src="/static/home/kr/images/popup/20220322.png" alt="KTBNETWORK NOTICE"> -->
+		<!-- // 이미지로 팝업 띄울때 -->
+	</div>
+
+  <script>
+    $.urlParam = function(name){
+      let results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+      if (results==null){
+        return null;
+      }
+      else{
+        return results[1] || 0;
+      }
+    }
+    let popImgPath = $.urlParam('popup')
+
+    $('.main img').attr('src', '/static/home/kr/images/popup/' + popImgPath + '.png')
+
+  </script>
+</body>
+</html>

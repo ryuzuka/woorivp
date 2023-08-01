@@ -49,6 +49,13 @@
 							<li><a href="#OP11T89L"><img src="/static/home/en/images/contents/img_partners_89_off.gif" alt="Kinova Logo"><span>Kinova</span></a></li>
 							<li><a href="#OP11T90L"><img src="/static/home/en/images/contents/img_partners_90_off.gif" alt="Berkeleylights Logo"><span>Berkeleylights</span></a></li>
 							<li><a href="#OP11T92L"><img src="/static/home/en/images/contents/img_partners_92_off.gif" alt="Neuroptika Logo"><span>Neuroptika</span></a></li>
+							
+							<!-- 0503 추가 -->
+							<li><a href="#OP11T100L"><img src="/static/home/en/images/contents/img_partners_100_off.gif" alt="Grab Logo"><span>Grab</span></a></li>
+							<li><a href="#OP11T101L"><img src="/static/home/en/images/contents/img_partners_101_off.gif" alt="Nobroker Logo"><span>Nobroker</span></a></li>
+							<li><a href="#OP11T102L"><img src="/static/home/en/images/contents/img_partners_102_off.gif" alt="MissFresh Logo"><span>MissFresh</span></a></li>
+							<!-- //0503 추가 -->
+							
 						</ul>
 					</div>
 				</div>
@@ -377,6 +384,49 @@
 			<button type="button" class="layerClose">Close</button>
 		</div>
 		<!-- Neuroptika//(L) -->
+		
+<!-- 0503 추가 -->
+		<!-- Grab(L) -->
+		<div class="layerPop layerS" id="OP11T100L">
+			<div class="layerContainer">
+				<h2 class="layerTit">Grab</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/en/images/contents/img_partners_100_on.gif" alt="Grab Logo"></div>
+					<p class="mtS">Grab is a ride-hailing platform that offers booking service for taxis, private cars, and motorbikes through one mobile.</p>
+					<div class="link"><p class="site"><a href="https://www.grab.com/sg/" target="_blank" title="new window">https://www.grab.com/sg/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">Close</button>
+		</div>
+		<!-- Grab//(L) -->
+		<!-- Nobroker(L) -->
+		<div class="layerPop layerS" id="OP11T101L">
+			<div class="layerContainer">
+				<h2 class="layerTit">NoBroker</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/en/images/contents/img_partners_101_on.gif" alt="NoBroker Logo"></div>
+					<p class="mtS">NoBroker.com is India’s unique real estate platform that makes it possible to Buy/Sell/Rent houses without paying any brokerage.</p>
+					<div class="link"><p class="site"><a href="https://www.nobroker.in/" target="_blank" title="new window">https://www.nobroker.in/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">Close</button>
+		</div>
+		<!-- Nobroker//(L) -->
+		<!-- Missfresh(L) -->
+		<div class="layerPop layerS" id="OP11T102L">
+			<div class="layerContainer">
+				<h2 class="layerTit">Missfresh</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/en/images/contents/img_partners_102_on.gif" alt="Missfresh Logo"></div>
+					<p class="mtS">Missfresh is one of the leading e-commerce retailer in china. Founded in Nov 2014, by founder Xuzheng(CEO) and co-founder Zengbin(COO). Company sales Fruit, Egg &amp; Meat, Fisheries, Vegetables, Dairy, Beverage, Snacks etc,.</p>
+					<div class="link"><p class="site"><a href="https://www.missfresh.cn/" target="_blank" title="new window">https://www.missfresh.cn/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">Close</button>
+		</div>
+		<!-- Missfresh//(L) -->
+<!-- //0503 추가 -->
+
 		<div class="dimmed"></div>
 
 

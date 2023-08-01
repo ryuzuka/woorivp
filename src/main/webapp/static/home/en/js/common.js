@@ -665,15 +665,23 @@ $(window).on('load', function() {
                 this.location = [{
                         lat: 37.402430,
                         lng: 127.106020
-                    }, //seoul
+                    }, // pangyo
+                    {
+                        lat: 37.503187,
+                        lng: 127.043188
+                    }, // gangnam
                     {
                         lat: 31.206200,
                         lng: 121.407815
-                    }, //shanghai
+                    }, // shanghai
                     {
                         lat: 37.793565,
                         lng: -122.396979
-                    } //paloAlto
+                    }, // paloAlto
+                    {
+                        lat: 1.30017,
+                        lng: 103.83730
+                    } // Singapore
                 ];
                 this.actMapIdx = 0;
                 this._setDefTabEl();
@@ -691,7 +699,7 @@ $(window).on('load', function() {
             _loadGoogleApi: function() {
                 var lang = $('html').attr('lang');
                 var oSelf = this;
-                $.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyAfZShlQ4ELnREOWM_6z9XcxA1p4sP4fV0&language=" + lang).done(function(src, textStatus) {
+                $.getScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyD0_rWgfRTAWKJ6i4K39m0euEbyhlD4O_U&region=kr&language=" + lang).done(function(src, textStatus) {
                     oSelf._setMapApi();
                 });
             },

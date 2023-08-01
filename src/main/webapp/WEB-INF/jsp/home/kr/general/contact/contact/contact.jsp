@@ -8,7 +8,7 @@
 				<div class="visualArea">
 					<div class="inner">
 						<h1 class="pageTit">Contact</h1>
-						<p class="pageTxt ctt">내일을 위한 금융, KTB네트워크와 만나보세요.</p>
+						<p class="pageTxt ctt">내일을 위한 금융, 우리벤처파트너스와 만나보세요.</p>
 					</div>
 				</div>
 				<div class="mapArea">
@@ -20,8 +20,18 @@
 								<div class="togCon">
 									경기도 성남시 분당구 대왕판교로 670 (삼평동 682) 유스페이스2A동 10층
 									<div class="link">
-										<p class="tel">031-628-6400</p>
-										<p class="mail"><a href="mailto:webmaster@ktbnetwork.com">webmaster@ktbnetwork.com</a></p><!-- 0415 수정 -->
+										<p class="tel">070-4377-2000</p>
+										<p class="mail"><a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></p><!-- 0415 수정 -->
+									</div>
+								</div>
+							</li>
+							<li class="toggle">
+								<a href="#" class="togBar">Gangnam</a>
+								<div class="togCon">
+									서울특별시 강남구 테헤란로 301, 삼정빌딩 18층
+									<div class="link">
+										<p class="tel">070-4377-2000</p>
+										<p class="mail"><a href="mailto:webmaster@woorivp.com">webmaster@woorivp.com</a></p><!-- 0415 수정 -->
 									</div>
 								</div>
 							</li>
@@ -32,7 +42,7 @@
 									<div class="link">
 										<p class="tel">+86-21-60671778</p>
 										<p class="fax">+86-21-60671779</p>
-										<p class="mail"><a href="mailto:whhong@ktb.co.kr">whhong@ktb.co.kr</a></p>
+										<!-- <p class="mail"><a href="mailto:whhong@ktb.co.kr">whhong@ktb.co.kr</a></p> -->
 									</div>
 								</div>
 							</li>
@@ -42,8 +52,16 @@
 									1 California Street, Suite 2800 San Francisco, CA 94111
 									<div class="link">
 										<p class="tel">+1-650-324-4681</p>
-										<p class="mail"><a href="mailto:info@ktbvc.com">info@ktbvc.com</a></p>
+										<!-- <p class="mail"><a href="mailto:info@ktbvc.com">info@ktbvc.com</a></p> -->
 									</div>
+								</div>
+							</li>
+							<li class="toggle">
+								<a href="#" class="togBar">Singapore</a>
+								<div class="togCon">
+									1 Raffles Quay<br>
+									#09-02 North Tower<br>
+									Singapore 048583
 								</div>
 							</li>
 						</ul>

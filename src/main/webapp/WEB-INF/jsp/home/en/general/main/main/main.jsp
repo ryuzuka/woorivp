@@ -9,18 +9,18 @@
 						<div class="inner">
 							<div class="mainVisual">
 								<div class="visualWrap">
-									<ul class="swiper-wrapper" style="width:8400px"><!-- width값:li전부 더한 값 -->										
-										<li class="swiper-slide">
+									<ul class="swiper-wrapper" style="width:8400px"><!-- width값:li전부 더한 값 -->
+										<!--<li class="swiper-slide">
 											<a href="/home/en/watwedo/overview.do">
 												<img src="/static/home/en/images/main/main__visual1.png" alt="Complete your success story with KTB Asset Management KTB Network, the perfect partner for your success. What We Do">
 											</a>
-										</li>						
+										</li> -->
 										<li class="swiper-slide">
-												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: KTB Creating tomorrow’s value through high-potential ventures">
-										</li>						
-										<li class="swiper-slide">
+												<img src="/static/home/en/images/main/main_visual2.png" alt="Looking to the Future: WOORI Venture Partners Creating tomorrow’s value through high-potential ventures">
+										</li>
+										<!-- <li class="swiper-slide">
 												<img src="/static/home/en/images/main/main_visual3.png" alt="KTB: Your Partner In Growth Over the last 38 years since establishment, We walked together with 277 firms through IPO (including backdoor listing)">
-										</li>						
+										</li> -->
 										<li class="swiper-slide">
 												<img src="/static/home/en/images/main/main_visual4.png" alt="Network to the world With decades of experience and global network. We reach for the world">
 										</li>
@@ -31,7 +31,7 @@
 											<a href="#" class="btnStop"><span>stop</span></a><!-- 정지 버튼 눌러서 멈출 경우 <a href="#" class="btnPlay"><span>play</span></a> 로 변경 -->
 											<!--<a href="#" class="btnPlay"><span>play</span></a>-->
 											<a href="#" class="btnNext"><span>next</span></a>
-										</div>	
+										</div>
 										<span class="pageNum">
 											<strong class="now">02</strong>	/ 05
 										</span>
@@ -46,7 +46,7 @@
 					<!-- section2 -->
 					<div class="section2" style="height:850px">
 						<div class="inner">
-							<h3 class="sTit">Our Fund Status<em>Grow Together with  KTB Network.</em></h3>
+							<h3 class="sTit">Our Fund Status<em>Grow Together with  WOORI Venture Partners.</em></h3>
 							<ul class="tabArea">
 								<li><a href="#tab01" aria-selected="true" class="on">Funds Exited</a></li>
 								<li><a href="#tab02">Funds Active</a></li>
@@ -59,25 +59,25 @@
 										<li>
 											<dl>
 												<dt class="name">Funds exited</dt>
-												<dd class="num">52</dd>
+												<dd class="num">60</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Capital Raised<span>(Unit : USD Billion)</span></dt>
-												<dd class="num">1.1</dd>
+												<dt class="name">Capital Raised<span>(Unit : KRW)</span></dt>
+												<dd class="num">1,365B</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
-												<dt class="name">Total Paid Out<span>(Unit : USD Billion)</span></dt>
-												<dd class="num">1.7</dd>
+												<dt class="name">Total Paid Out<span>(Unit : KRW)</span></dt>
+												<dd class="num">2,148B</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">IRR<span>(Unit : %)</span></dt>
-												<dd class="num">20.02</dd>
+												<dd class="num">19.54</dd>
 											</dl>
 										</li>
 									</ul>
@@ -86,7 +86,11 @@
 										<a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
-											<span class="txt">- The present 2018.12.31<br>- based on funds exited from Jan 1, 2000<br>- IRR : Include Performance Remuneration, &nbsp;&nbsp;Weighted average return on payments</span>
+											<span class="txt">
+												- The present 2022.12.31
+<%--												<br>- Fully liquidated fund since Jan, 2000--%>
+												<br>- IRR : Include Performance Remuneration, &nbsp;&nbsp;Weighted average return on payments
+											</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
 										</span>
 									</span>
@@ -99,34 +103,54 @@
 										<li>
 											<dl>
 												<dt class="name">Funds Active</dt>
-												<dd class="num">18</dd>
+												<dd class="num">19</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
+												<dt class="name">Fund Size<span>(Unit : KRW)</span></dt>
+												<dd class="num">1,459B</dd>
+											</dl>
+										</li>
+										<li>
+											<dl>
+												<dt class="name">Portfolio Companies</dt>
+												<dd class="num">354</dd>
+											</dl>
+										</li>
+										<li>
+											<dl>
+												<dt class="name" style="white-space: nowrap;">Total Amount Invested<span>(Unit : KRW)</span></dt>
+												<dd class="num">1,014B</dd>
+											</dl>
+										</li>
+										<!-- <li>
+											<dl>
 												<dt class="name">Capital Pledged<span>(Unit : USD Million)</span></dt>
-												<dd class="num">752</dd>
+												<dd class="num">756</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">Capital Deployed<span>(Unit : USD Million)</span></dt>
-												<dd class="num">462</dd>
+												<dd class="num">520</dd>
 											</dl>
 										</li>
 										<li>
 											<dl>
 												<dt class="name">IRR(e)<span>(Unit : %)</span></dt>
-												<dd class="num">16.91</dd>
+												<dd class="num">16.22</dd>
 											</dl>
-										</li>
+										</li> -->
 									</ul>
 									<span class="tooltip">
 										<em>Documentation Criteria</em>
 										<a href="#" class="tipOpen"><span>도움말</span></a><!-- 클릭 시 class="on" 추가 -->
 										<span class="msg">
 											<strong class="tit">Documentation Criteria</strong>
-											<span class="txt">- The present 2018.12.31<br>- Excludes funds currently exiting<br>- IRR(e) : Include Performance Remuneration, &nbsp;&nbsp;Weighted average return on payments</span>
+											<span class="txt">
+												- The present 2022.12.31
+											</span>
 											<a href="#" class="btnClose on"><span>닫기</span></a><!-- 클릭 시 <a class="tipOpen on"> 의 class="on" 삭제 -->
 										</span>
 									</span>
@@ -149,13 +173,13 @@
 									<li><strong>Alignment of Interest</strong>We align our partners towards a common goal</li>
 									<li><strong>Active Value Creation</strong>We support our portfolio companies through value-creating activities to achieve sustainable growth, the companies’ success and attaining returns</li>
 									<li><strong>Compliance</strong>We actively maintain our compliance system to control operational risk and prevent moral hazard</li>
-								</ul>								
+								</ul>
 							</div>
 						</div>
 					</div>
 					<!-- //section3 -->
 					<div class="etcArea">
-						<div class="inner">							
+						<div class="inner">
 							<div class="member">
 								<p>Our team works with you <br>to ensure successful <br>investments.</p>
 								<a href="/home/en/whoweare/korea.do">Who We Are</a>
@@ -167,6 +191,12 @@
 						</div>
 					</div>
 				</div><!-- //sectionWrap -->
-			</article><!-- //content -->						
+			</article><!-- //content -->
 		</section>
-	
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+<script>
+	let date = parseInt(moment().format('YYYYMMDD'))
+	if (20210609 <= date && date <= 20210731 ) {
+		window.open('/static/home/en/ktb_popup.html', '', 'top=0, left=0, width=720, height=721, location=0, status=0, menubar=0, directories=0, toolbar=0, resizable=0, scrollbars=0')
+	}
+</script>

@@ -17,109 +17,89 @@
 						<li class="sub on"><a href="/home/en/watwedo/history.do" aria-selected="true">History</a>
 							<div class="subTab">
 								<ul class="inner">
-									<li class="on"><a href="#" aria-selected="true">2018~2012</a></li>
-									<li><a href="#">2011~1981</a></li>
+									<li class="on"><a href="#" aria-selected="true">2023 ~ 1981</a></li>
+									<!-- <li><a href="#">2011~1981</a></li> -->
 								</ul>
 							</div>
 						</li>
 						<li><a href="/home/en/watwedo/philosophy.do">Philosophy</a></li>
 					</ul>
 				</div>
-				<div class="inner tabCont on">	
-					<h2 class="hidden">History 2018~2012</h2><!-- 탭 타이틀 -->				
+				<div class="inner tabCont on">
+					<h2 class="hidden">History 2023 ~ 1981</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
+							<!--<li class="year on">
+								<strong class="num">2020</strong>
+								<ol class="list">
+									<li>
+										<strong class="tit">2020.12</strong>
+										<p class="txt">
+										KTBN 18 Venture Investment Fund(USD 258 Million) established<br>
+										reaching AUM USD 1,070 Million
+										</p>
+									</li>
+								</ol>
+							</li>-->
 							<li class="year on">
-								<strong class="num">2018</strong>
+								<strong class="num">2023</strong>
 								<ol class="list">
-									<!-- 0415 수정 -->
-									<li>
-										<strong class="tit">2018.12</strong>
-										<p class="txt">Reached USD 753 Million in AUM</p>
-									</li>
-									<!-- //0415 수정 -->
-									<li>
-										<strong class="tit">2018.06</strong>
-										<p class="txt">Reached USD 404 Million in AUM through VC fund</p>
-									</li>
-									<li>
-										<strong class="tit">2018.01</strong>
-										<p class="txt">KTBN 14 Venture Investment Fund (USD 4.6 Million) established, reaching AUM USD 570 Million</p>
+									<li class="noMonth">
+										<p class="txt">
+											Inclusion of a subsidiary into Woori Financial Group<br>
+											Change name to WOORI ( Daol Investment -> Woori Venture Partners )
+										</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
-								<strong class="num">2017</strong>
+								<strong class="num">2022</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2017.12</strong>
-										<p class="txt">KTBN 13 Venture Investment Fund (USD 44 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2017.05</strong>
-										<p class="txt">NAVER-KTB Audio Contents Investment Fund (USD 29 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2017.02</strong>
-										<p class="txt">KTBN 11 Korea-China Synergy Fund (USD 1.4 Billion) established</p>
+									<li class="noMonth">
+										<p class="txt">Change Name to DAOL ( KTB Network -> Daol Investment )</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
-								<strong class="num">2016</strong>
+								<strong class="num">2021</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2016.11</strong>
-										<p class="txt">KTBN media and video contents Investment Fund (USD 8.7 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2016.03</strong>
-										<p class="txt">KTBN 8 Investment Fund (USD 40 Million), KTBN 9 Digital Contents Korea Investment Fund (USD 26 Million) established</p>
+									<li class="noMonth">
+										<p class="txt">Listed on KOSDAQ (KTB Nework)</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
-								<strong class="num">2014</strong>
+								<strong class="num">2008</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2014.04</strong>
-										<p class="txt">KTBN 7 Venture Investment Fund (USD 60 Million) established</p>
+									<li class="noMonth">
+										<p class="txt">Physical division of KTB Network</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
-								<strong class="num">2013</strong>
+								<strong class="num">1996</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2013.08</strong>
-										<p class="txt">IBK-KTB Cultural Contents IP Investment Fund (USD 17 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2013.07</strong>
-										<p class="txt">KTB Overseas Expansion Fund (USD 101 Million) established</p>
+									<li class="noMonth">
+										<p class="txt">Listed on KOSPI</p>
 									</li>
 								</ol>
 							</li>
 							<li class="year">
-								<strong class="num">2012</strong>
+								<strong class="num">1981</strong>
 								<ol class="list">
-									<li>
-										<strong class="tit">2012.12</strong>
-										<p class="txt">KTB-KORUS Fund (USD 7 Million) established</p>
-									</li>
-									<li>
-										<strong class="tit">2012.02</strong>
-										<p class="txt">KTB-NHN China PEF (USD 26 Million) established</p>
+									<li class="noMonth">
+										<p class="txt">Established Korea Technology Development Company</p>
 									</li>
 								</ol>
 							</li>
 						</ol>
 					</div>
 				</div>
-				<div class="inner tabCont">	
-					<h2 class="hidden">History 2011~1981</h2><!-- 탭 타이틀 -->				
+				<div class="inner tabCont">
+					<h2 class="hidden">History 2011~1981</h2><!-- 탭 타이틀 -->
 					<div class="historyArea">
 						<ol class="historyList">
+							<!--
 							<li class="year">
 								<strong class="num">2011</strong>
 								<ol class="list">
@@ -199,9 +179,9 @@
 									</li>
 								</ol>
 							</li>
+							-->
 						</ol>
 					</div>
 				</div>
 			</div>
 		</section>
-		

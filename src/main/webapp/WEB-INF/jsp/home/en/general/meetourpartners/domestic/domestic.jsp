@@ -94,7 +94,8 @@
 							<li><a href="#OP11T97L"><img src="/static/home/en/images/contents/img_partners_97_off.gif" alt="CellBioHumanTech Logo"><span>CellBioHumanTech</span></a></li>
 							<li><a href="#OP11T98L"><img src="/static/home/en/images/contents/img_partners_98_off.gif" alt="Sangwha, Inc. Logo"><span>Sangwha, Inc.</span></a></li>
 							<li><a href="#OP11T99L"><img src="/static/home/en/images/contents/img_partners_99_off.gif" alt="Styleshare Logo"><span>Styleshare</span></a></li><!-- 0417 추가 -->
-							
+
+							<li><a href="#OP11T103L"><img src="/static/home/en/images/contents/img_partners_103_v2_off.png" alt="PABLO AIR Logo"><span>PABLO AIR</span></a></li>
 						</ul>
 					</div>
 				</div>
@@ -949,13 +950,27 @@
 					<div class="tcenter"><img src="/static/home/en/images/contents/img_partners_99_on.gif" alt="Sangwha, Inc. Logo"></div>
 					<p class="mtS">Styleshare is a contents-based commerce platform provider. 
 					It provides Styleshare app used by a third of generation Z in Korea and operates a fashion lifestyle select store '29CM' as its subsidiary. Over a million users share tens of thousands of fashion contents on the app monthly, and over 2,000 brands do business on the platform.</p>
-					<div class="link"><p class="site"><a href="https://about.stylesha.re/ target="_blank" title="new window">https://about.stylesha.re/</a></p></div>
+					<div class="link"><p class="site"><a href="https://about.stylesha.re/" target="_blank" title="new window">https://about.stylesha.re/</a></p></div>
 				</div>
 			</div>
 			<button type="button" class="layerClose">Close</button>
 		</div>
 		<!-- Sangwha, Inc.//(L) -->
 <!-- //0417 추가 -->
+
+		<!-- PABLO AIR(L) -->
+		<div class="layerPop layerS" id="OP11T103L">
+			<div class="layerContainer">
+				<h2 class="layerTit">PABLO AIR</h2>
+				<div class="layerCont" tabindex="0">
+					<div class="tcenter"><img src="/static/home/en/images/contents/img_partners_103_v2_on.png" alt="PABLO AIR Logo"></div>
+					<p class="mtS">PABLO AIR is a specialized company in drone delivery solutions and UAM integrated control systems. They have completed demonstration projects for drone delivery services in mountainous and urban areas in Korea, and are currently conducting demonstration projects with the NUAIR and NASA in the United States. Through these efforts, they plan to expand drone logistics services in domestic and international markets and lead the UAM industry.</p>
+					<div class="link"><p class="site"><a href="http://www.pabloair.com/" target="_blank" title="new window">http://www.pabloair.com/</a></p></div>
+				</div>
+			</div>
+			<button type="button" class="layerClose">Close</button>
+		</div>
+		<!-- PABLO AIR//(L) -->
 		
 		<div class="dimmed"></div>
 		

@@ -12,6 +12,7 @@
 					<ul>
 						<li><a href="/home/en/whoweare/korea.do">KOREA</a></li>
 						<li class="on"><a href="/home/en/whoweare/china.do" aria-selected="true">CHINA</a></li>
+						<li><a href="/home/en/whoweare/singapore.do">SINGAPORE</a></li>
 					</ul>
 				</div>
 				<div class="tabType2 tabToggle">
@@ -25,15 +26,6 @@
 					<h2 class="hidden">CHINA Investment</h2>
 					<ul class="personList">
 						<li>
-							<a href="#personDeatail01" role="button">
-								<span><img src="/static/mobile/en/images/contents/img_china_invest_01.jpg" alt="Hong Won Ho" /></span>
-								<span>
-									<em>Hong Won Ho</em>
-									Representative
-								</span>
-							</a>
-						</li>
-						<li>
 							<a href="#personDeatail02" role="button">
 								<span><img src="/static/mobile/en/images/contents/img_china_invest_02.jpg" alt="Amy Yeh" /></span>
 								<span>
@@ -46,21 +38,10 @@
 							<a href="#personDeatail03" role="button">
 								<span><img src="/static/mobile/en/images/contents/img_china_invest_03.jpg" alt="Chihoon Hyun" /></span>
 								<span>
-									<em>Chihoon Hyun</em>
-									Director
+									<em>Chihoon Hyun</em>Managing Director
 								</span>
 							</a>
 						</li>
-						<li>
-							<a href="#personDeatail04" role="button">
-								<span><img src="/static/mobile/en/images/contents/img_china_invest_04.jpg" alt="Grace" /></span>
-								<span>
-									<em>Grace</em>
-									Team Manager
-								</span>
-							</a>
-						</li>
-						<!-- 0415 수정 -->
 						<li>
 							<a href="#person_manageDeatail02" role="button">
 								<span><img src="/static/mobile/en/images/contents/img_china_manage_02.jpg" alt="Xu Tingting" /></span>
@@ -70,7 +51,6 @@
 								</span>
 							</a>
 						</li>
-						<!-- //0415 수정 -->
 					</ul>
 				</div>
 				<!-- //Investment -->
@@ -102,39 +82,16 @@
 					</ul>
 				</div>
 				<!-- //Management -->
+        <!--
 				<div class="btnArea">
 					<a href="http://ktbchina.com/index.html" target="_blank" class="btnL">Our Chinese Website</a>
 				</div>
+				-->
 			</div>
 		</div><!-- //contents -->
 	</section>
 
 	<!-- team investment(L) -->
-	<!-- Hong Won Ho Representative -->
-	<div class="fullLayer" id="personDeatail01">
-		<h2 class="layerTit">Who We Are</h2>
-		<div class="layerCont" tabindex="0">
-			<div class="personDetail">
-				<span><img src="/static/mobile/en/images/contents/img_china_invest_pop01.jpg" alt="Hong Won Ho" /></span>
-				<div class="deatilCon">
-					<dl>
-						<dt class="name">Hong Won Ho</dt>
-						<dd class="position">CHINA / Representative</dd>
-						<dt>Career</dt>
-						<dd>
-							<ul class="listDep1">
-								<li>Sogang University (Business)</li>
-								<li>Kook Min Bank</li>
-								<li>KTB Network</li>
-							</ul>
-						</dd>
-					</dl>
-				</div>
-			</div>
-		</div>
-		<button type="button" class="layerClose">close</button>
-	</div>
-	<!-- //Hong Won Ho Representative -->
 	<!-- Amy Yeh Senior Managing Director -->
 	<div class="fullLayer" id="personDeatail02">
 		<h2 class="layerTit">Who We Are</h2>
@@ -159,7 +116,7 @@
 		<button type="button" class="layerClose">close</button>
 	</div>
 	<!-- //Amy Yeh Senior Managing Director -->
-	<!-- Chihoon Hyun Director -->
+	<!-- Chihoon Hyun Managing Director -->
 	<div class="fullLayer" id="personDeatail03">
 		<h2 class="layerTit">Who We Are</h2>
 		<div class="layerCont" tabindex="0">
@@ -168,38 +125,13 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Chihoon Hyun</dt>
-						<dd class="position">CHINA / Investment / Director</dd>
-						<dt>Career</dt>
-						<dd>
-							<ul class="listDep1">
-								<li>Fudan University (Economics)</li>
-								<li>Deloitte Touche Tohmatsu Certified Public</li>
-								<li>Accountants LLP</li>
-							</ul>
-						</dd>
-					</dl>
-				</div>
-			</div>
-		</div>
-		<button type="button" class="layerClose">close</button>
-	</div>
-	<!-- //Chihoon Hyun Director -->
-	<!-- Grace Team Manager -->
-	<div class="fullLayer" id="personDeatail04">
-		<h2 class="layerTit">Who We Are</h2>
-		<div class="layerCont" tabindex="0">
-			<div class="personDetail">
-				<span><img src="/static/mobile/en/images/contents/img_china_invest_pop04.jpg" alt="Grace" /></span>
-				<div class="deatilCon">
-					<dl>
-						<dt class="name">Grace</dt>
-						<dd class="position">CHINA / Investment / Team Manager</dd>
+						<dd class="position">CHINA / Managing Director</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
 								<li>Yonsei University (Economics)</li>
 								<li>IMM Investment</li>
-								<li>KTB Network</li>
+								<li>WOORI Venture Partners</li>
 							</ul>
 						</dd>
 					</dl>
@@ -208,7 +140,7 @@
 		</div>
 		<button type="button" class="layerClose">close</button>
 	</div>
-	<!-- //Grace Team Manager -->
+	<!-- //Chihoon Hyun Managing Director -->
 	<!-- //team investment(L) -->
 
 	<!-- team management(L) -->
@@ -226,7 +158,7 @@
 						<dd>
 							<ul class="listDep1">
 								<li>Shanghai Normal University (Real-estate Business)</li>
-								<li>KTB Investment &amp; Securities</li>
+								<li>WOORI Venture Partners & Securities</li>
 								<li>Hanwha general chemical corporation</li>
 							</ul>
 						</dd>
@@ -252,7 +184,7 @@
 				<div class="deatilCon">
 					<dl>
 						<dt class="name">Xu Tingting</dt>
-						<dd class="position">CHINA / Management / Team Manager</dd>
+						<dd class="position">CHINA / Investment / Team Manager</dd>
 						<dt>Career</dt>
 						<dd>
 							<ul class="listDep1">
@@ -276,4 +208,4 @@
 	</div>
 	<!-- //Xu Tingting Team Manager -->
 	<!-- //team investment(L) -->
-	
+

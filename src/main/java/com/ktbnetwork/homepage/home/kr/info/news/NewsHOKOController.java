@@ -246,6 +246,106 @@ public class NewsHOKOController {
 				return "home/ko/basic/info/news/1099";
 			} else if (num.equals("100")) {
 				return "home/ko/basic/info/news/1100";
+			} else if (num.equals("101")) {
+				return "home/ko/basic/info/news/1101";
+			} else if (num.equals("102")) {
+				return "home/ko/basic/info/news/1102";
+			} else if (num.equals("103")) {
+				return "home/ko/basic/info/news/1103";
+			} else if (num.equals("104")) {
+				return "home/ko/basic/info/news/1104";
+			} else if (num.equals("105")) {
+				return "home/ko/basic/info/news/1105";
+			} else if (num.equals("106")) {
+				return "home/ko/basic/info/news/1106";
+			} else if (num.equals("107")) {
+				return "home/ko/basic/info/news/1107";
+			} else if (num.equals("108")) {
+				return "home/ko/basic/info/news/1108";
+			} else if (num.equals("109")) {
+				return "home/ko/basic/info/news/1109";
+			} else if (num.equals("110")) {
+				return "home/ko/basic/info/news/1110";
+			} else if (num.equals("111")) {
+				return "home/ko/basic/info/news/1111";
+			} else if (num.equals("112")) {
+				return "home/ko/basic/info/news/1112";
+			} else if (num.equals("113")) {
+				return "home/ko/basic/info/news/1113";
+			} else if (num.equals("114")) {
+				return "home/ko/basic/info/news/1114";
+			} else if (num.equals("115")) {
+				return "home/ko/basic/info/news/1115";
+			} else if (num.equals("116")) {
+				return "home/ko/basic/info/news/1116";
+			} else if (num.equals("117")) {
+				return "home/ko/basic/info/news/1117";
+			} else if (num.equals("118")) {
+				return "home/ko/basic/info/news/1118";
+			} else if (num.equals("119")) {
+				return "home/ko/basic/info/news/1119";
+			} else if (num.equals("120")) {
+				return "home/ko/basic/info/news/1120";
+			} else if (num.equals("121")) {
+				return "home/ko/basic/info/news/1121";
+			} else if (num.equals("122")) {
+				return "home/ko/basic/info/news/1122";
+			} else if (num.equals("123")) {
+				return "home/ko/basic/info/news/1123";
+			} else if (num.equals("124")) {
+				return "home/ko/basic/info/news/1124";
+			} else if (num.equals("125")) {
+				return "home/ko/basic/info/news/1125";
+			} else if (num.equals("126")) {
+				return "home/ko/basic/info/news/1126";
+			} else if (num.equals("127")) {
+				return "home/ko/basic/info/news/1127";
+			} else if (num.equals("128")) {
+				return "home/ko/basic/info/news/1128";
+			} else if (num.equals("129")) {
+				return "home/ko/basic/info/news/1129";
+			} else if (num.equals("130")) {
+				return "home/ko/basic/info/news/1130";
+			} else if (num.equals("131")) {
+				return "home/ko/basic/info/news/1131";
+			} else if (num.equals("132")) {
+				return "home/ko/basic/info/news/1132";
+			} else if (num.equals("133")) {
+				return "home/ko/basic/info/news/1133";
+			} else if (num.equals("134")) {
+				return "home/ko/basic/info/news/1134";
+			} else if (num.equals("135")) {
+				return "home/ko/basic/info/news/1135";
+			} else if (num.equals("136")) {
+				return "home/ko/basic/info/news/1136";
+			} else if (num.equals("137")) {
+				return "home/ko/basic/info/news/1137";
+			} else if (num.equals("138")) {
+				return "home/ko/basic/info/news/1138";
+			} else if (num.equals("139")) {
+				return "home/ko/basic/info/news/1139";
+			} else if (num.equals("140")) {
+				return "home/ko/basic/info/news/1140";
+			} else if (num.equals("141")) {
+				return "home/ko/basic/info/news/1141";
+			} else if (num.equals("142")) {
+				return "home/ko/basic/info/news/1142";
+			} else if (num.equals("143")) {
+				return "home/ko/basic/info/news/1143";
+			} else if (num.equals("144")) {
+				return "home/ko/basic/info/news/1144";
+			} else if (num.equals("145")) {
+				return "home/ko/basic/info/news/1145";
+			} else if (num.equals("146")) {
+				return "home/ko/basic/info/news/1146";
+			} else if (num.equals("147")) {
+				return "home/ko/basic/info/news/1147";
+			} else if (num.equals("148")) {
+				return "home/ko/basic/info/news/1148";
+			} else if (num.equals("149")) {
+				return "home/ko/basic/info/news/1149";
+			} else if (num.equals("150")) {
+				return "home/ko/basic/info/news/1150";
 			}
 		}
 

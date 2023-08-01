@@ -184,6 +184,68 @@ public class NoticeHOKOController {
                 return "home/ko/basic/info/notice/1068";
             } else if (num.equals("69")) {
                 return "home/ko/basic/info/notice/1069";
+            } else if (num.equals("70")) {
+                return "home/ko/basic/info/notice/1070";
+            } else if (num.equals("71")) {
+                return "home/ko/basic/info/notice/1071";
+            } else if (num.equals("72")) {
+                return "home/ko/basic/info/notice/1072";
+            } else if (num.equals("73")) {
+                return "home/ko/basic/info/notice/1073";
+            } else if (num.equals("74")) {
+                return "home/ko/basic/info/notice/1074";
+            } else if (num.equals("75")) {
+                return "home/ko/basic/info/notice/1075";
+            } else if (num.equals("76")) {
+                return "home/ko/basic/info/notice/1076";
+            } else if (num.equals("77")) {
+                return "home/ko/basic/info/notice/1077";
+            } else if (num.equals("78")) {
+                return "home/ko/basic/info/notice/1078";
+            } else if (num.equals("79")) {
+                return "home/ko/basic/info/notice/1079";
+            } else if (num.equals("80")) {
+                return "home/ko/basic/info/notice/1080";
+            } else if (num.equals("81")) {
+                return "home/ko/basic/info/notice/1081";
+            } else if (num.equals("82")) {
+                return "home/ko/basic/info/notice/1082";
+            } else if (num.equals("83")) {
+                return "home/ko/basic/info/notice/1083";
+            } else if (num.equals("84")) {
+                return "home/ko/basic/info/notice/1084";
+            } else if (num.equals("85")) {
+                return "home/ko/basic/info/notice/1085";
+            } else if (num.equals("86")) {
+                return "home/ko/basic/info/notice/1086";
+            } else if (num.equals("87")) {
+                return "home/ko/basic/info/notice/1087";
+            } else if (num.equals("88")) {
+                return "home/ko/basic/info/notice/1088";
+            } else if (num.equals("89")) {
+                return "home/ko/basic/info/notice/1089";
+            } else if (num.equals("90")) {
+                return "home/ko/basic/info/notice/1090";
+            } else if (num.equals("91")) {
+                return "home/ko/basic/info/notice/1091";
+            } else if (num.equals("92")) {
+                return "home/ko/basic/info/notice/1092";
+            } else if (num.equals("93")) {
+                return "home/ko/basic/info/notice/1093";
+            } else if (num.equals("94")) {
+                return "home/ko/basic/info/notice/1094";
+            } else if (num.equals("95")) {
+                return "home/ko/basic/info/notice/1095";
+            } else if (num.equals("96")) {
+                return "home/ko/basic/info/notice/1096";
+            } else if (num.equals("97")) {
+                return "home/ko/basic/info/notice/1097";
+            } else if (num.equals("98")) {
+                return "home/ko/basic/info/notice/1098";
+            } else if (num.equals("99")) {
+                return "home/ko/basic/info/notice/1099";
+            } else if (num.equals("100")) {
+                return "home/ko/basic/info/notice/1100";
             }
         }
 
